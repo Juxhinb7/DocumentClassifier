@@ -1,8 +1,9 @@
+import scipy.sparse
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 
 
-def fit_and_transform_dataset(x, dataset):
+def fit_and_transform_dataset(x: str, dataset: str):
     with open(dataset, "r") as f:
         lines = f.readlines()
         vec = TfidfVectorizer()
@@ -39,7 +40,7 @@ def dtm2list(fvectors):
 flist = dtm2list(features)
 
 
-def even_list_out(fvectors_list):
+def even_out_list(fvectors_list: []):
     longest_list = max(len(elem) for elem in fvectors_list)
     even_lists = []
 
@@ -55,8 +56,5 @@ classes_keys = {"business": 0, "entertainment": 1, "politics": 2, "sport": 3, "t
 
 num_classes = [classes_keys[cls] for cls in classes if cls in classes_keys]
 
-invec = np.array(even_list_out(flist)[-1])
 
-distances = [np.linalg.norm(invec - np.array(even_list_out(flist)[i])) for i in range(len(even_list_out(flist)) - 1)]
 
-print(len(distances))
