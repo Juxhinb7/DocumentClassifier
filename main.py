@@ -29,7 +29,6 @@ num_classes = [classes_keys[cls] for cls in classes if cls in classes_keys]
 
 invec = np.array(even_out_list(flist)[-1])
 
-
 classifier = KNNClassifier(3)
 classifier.fit(invec, even_out_list(flist), num_classes)
 predicted_feature_vector, predicted_label, predicted_distance = classifier.predict()
