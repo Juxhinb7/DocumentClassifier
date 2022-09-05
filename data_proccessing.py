@@ -1,6 +1,4 @@
-import scipy.sparse
 from sklearn.feature_extraction.text import TfidfVectorizer
-import numpy as np
 
 
 def fit_and_transform_dataset(x: str, dataset: str):
@@ -23,10 +21,6 @@ def fit_and_transform_dataset(x: str, dataset: str):
     return vec.fit_transform(texts), labels
 
 
-features, classes = fit_and_transform_dataset("hello there", "dataset.txt")
-last_doc = features[-1]
-
-
 def dtm2list(fvectors):
     vectorslist = []
     for vector in fvectors:
@@ -35,9 +29,6 @@ def dtm2list(fvectors):
         vectorslist.append(vectoraslist)
 
     return vectorslist
-
-
-flist = dtm2list(features)
 
 
 def even_out_list(fvectors_list: []):
@@ -50,11 +41,3 @@ def even_out_list(fvectors_list: []):
         even_lists.append(element)
 
     return even_lists
-
-
-classes_keys = {"business": 0, "entertainment": 1, "politics": 2, "sport": 3, "tech": 4}
-
-num_classes = [classes_keys[cls] for cls in classes if cls in classes_keys]
-
-
-
