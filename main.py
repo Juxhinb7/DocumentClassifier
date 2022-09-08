@@ -13,7 +13,6 @@ mm_text = page_one.extractText()
 mm_pdf.close()
 
 features, classes = fit_and_transform_dataset(mm_text, "dataset.txt")
-last_text = features[-1]
 
 flist = dtm2list(features)
 
@@ -27,10 +26,12 @@ for cls in classes:
 
 num_classes = [classes_keys[cls] for cls in classes if cls in classes_keys]
 
-invec = np.array(even_out_list(flist)[-1])
+input_vector = np.array(even_out_list(flist)[-1])
+training_data = np.array(even_out_list(flist)[:-1])
 
 classifier = KNNClassifier(3)
-classifier.fit(invec, even_out_list(flist), num_classes)
+classifier.fit(input_vector, training_data, num_classes)
 predicted_feature_vector, predicted_label, predicted_distance = classifier.predict()
 
+print(even_out_list(flist))
 print(f"Predicted class:{predicted_label}")
