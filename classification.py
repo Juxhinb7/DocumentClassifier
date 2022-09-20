@@ -2,7 +2,7 @@
 Work in progress.
 """
 import PyPDF2
-from data_proccessing import fit_and_transform_dataset, dtm2list, even_out_list
+from data_preproccessing import fit_and_transform_dataset, dtm2list, even_out_list
 import numpy as np
 from knnclassifier import KNNClassifier
 
