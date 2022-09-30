@@ -9,7 +9,7 @@ def main_page():
         content = request.form["text"]
         y = classify(content, "dataset.txt")
         return jsonify({"class": y})
-    return "Hello World"
+    return None
 
 
 if __name__ == "__main__":

@@ -1,0 +1,17 @@
+Uber Technologies Inc (UBER.N) said on Monday a hacker affiliated with the Lapsus$ hacking group was responsible for a cyber attack that forced the ride-hailing company to shut several internal communications temporarily last week.
+
+Uber said the attacker had not accessed any user accounts and the databases that store sensitive user information such as credit card numbers, bank account or trip details.
+
+"The attacker accessed several internal systems, and our investigation has focused on determining whether there was any material impact," Uber said, adding that investigation was still ongoing.
+
+The company said it was in close coordination with the FBI and the U.S. Department of Justice on the matter.
+
+Friday's cybersecurity incident had brought down Uber's internal communication system for a while and employees were restricted to use Salesforce-owned office messaging app Slack. read more
+
+Uber said the attacker logged in to a contractor's Uber account after they accepted a two-factor login approval request following multiple requests, giving the hacker access to several employee accounts and tools such as G-Suite and Slack.
+
+The hacking group, Lapsus$, has targeted firms including Nvidia (NVDA.O), Microsoft Corp (MSFT.O) and Okta Inc (OKTA.O), an authentication services company relied on by thousands of major businesses.
+
+Lapsus$ could not be immediately reached for comment.
+
+The hacker, who goes by the name "teapotuberhacker," also reportedly claimed to leak early gameplay footage of Take-Two Interactive Software Inc's muck-awaited game "Grand Theft Auto VI" on Monday.

@@ -1,0 +1,9 @@
+Apple just released its high-end iPhone 14 Pro and Pro Max on Friday, and some complaints are coming in about a bizarre camera flaw.
+
+Some users of Apple’s new high-end phones, which start at $999 and $1,099 respectively, have reported problems when using third-party camera apps such as TikTok, Snapchat and Instagram. Some have experienced the rear camera physically shaking, blurring the photos and creating a buzzing or grinding noise.
+
+CNBC could not duplicate the issue, but Apple has acknowledged its existence. “We’re aware of the issue and a fix will be released next week,” an Apple spokesperson told CNBC.
+
+Reddit users and Twitter accounts have been posting videos that show the flaw in action. One YouTuber, Luke Miani, uploaded a video to Twitter showing how his iPhone 14 Pro Max camera vibrates when using Snapchat, causing his photo to be blurry. You can also hear the phone’s camera making a loud buzzing sound in Miani’s video.
+
+It’s not clear what’s causing the problem, but The Guardian, which was early to report on the bug, suggested it could be related to the phone’s optical image stabilization feature, which is meant to counteract the effects of a shaky camera hand.
