@@ -1,0 +1,21 @@
+The ride-hailing company said it was investigating after several internal communications and engineering systems had been compromised.
+
+The New York Times first reported the breach after the hacker sent images of email, cloud storage and code repositories to the newspaper.
+
+Uber staff were told not use the workplace messaging app Slack, the report said, quoting two employees.
+
+Shortly before the Slack system was taken offline, Uber employees received a message that read: "I announce I am a hacker and Uber has suffered a data breach."
+
+It appeared that the hacker was later able to gain access to other internal systems, posting an explicit photo on an internal information page for employees.
+
+Uber said it was in touch with authorities about the breach.
+
+Uber pays a subscription fee to HackerOne, a bug bounty platform based in California. Bug bounty programs are used by a lot of big businesses - essentially they pay ethical hackers to identify bugs.
+
+Sam Curry, one of the bug bounty hunters, communicated with the Uber hacker. "It seems like they've compromised a lot of stuff," he said.
+
+Mr Curry said he spoke to several Uber employees, who said they were "working to lock down everything internally" to restrict the hacker's access.
+
+He said there was no indication that the hacker had done any damage or was interested in anything more than publicity.
+
+Chris Evans, chief hacking officer for HackerOne, told the BBC: "We're in close contact with Uber's security team, have locked their data down, and will continue to assist with their investigation."

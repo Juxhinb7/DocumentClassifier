@@ -1,0 +1,13 @@
+Starting next year, Amazon plans to pump electrofuels into some of its diesel delivery vans in a deal with Infinium. Amazon didn’t say what it’s paying, nor for how much synthetic fuel, but the conglomerate intends to cover “approximately 5 million miles of travel per year” using e-fuels, it said in a statement.
+
+It’s not clear how long it’ll last, but the trial will begin with Amazon trucks that haul stuff between vendors and distribution centers in Southern California.
+
+Spades are spades, and this is a chance for Amazon to say it is trying new things to decarbonize. Amazon’s climate marketing efforts are as transparent as the company’s footprint is large (and growing). Yet, the deal is also an interesting test for Amazon’s stake in the diesel alternative. The shopping website participated in a $69 million funding round for Infinium nearly a year ago, via its climate fund, and it stands to gain if e-fuels take off.
+
+If Amazon does wind up expanding its use of e-fuels, after whatever initial agreements with Infinium run their course, we’ll know that a ruthless cost cutter thinks e-fuels could be commercially viable for freight. That’d be noteworthy, since nobody has really proved that e-fuels can be cheap enough to warrant the resources that are required to produce them at a massive scale.
+
+Generally, e-fuels are made by separating water into hydrogen and oxygen, and then combining the former with carbon dioxide to create a drop-in alternative to diesel or jet fuel. Infinium hasn’t shared a much about its recipe, but it claims to tap renewable energy, industrial CO2 waste and green hydrogen “in a unique process.” In any case: E-fuels are hydrocarbons and no, you cannot download them.
+
+“E-fuels can be very low-carbon” when they’re produced via renewable energy, but “they can’t be low-cost at the same time,” said the International Council on Clean Transportation, a nonprofit environmental research group. In 2020, it called e-fuels “inherently inefficient, converting at best half of the energy in the electricity into liquid or gaseous fuels.”
+
+Dr. Debapriya Chakraborty, a UC Davis researcher who studies hybrids and EVs, told TechCrunch that the “cost-effectiveness of electrofuel versus battery electric technology for applications like heavy-duty trucking will depend on how quickly battery prices fall versus the fall in the cost of hydrogen production and transport, and the development of battery technology that will enable super-fast charging.”
