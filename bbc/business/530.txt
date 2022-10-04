@@ -1,0 +1,19 @@
+More than two decades ago, India began its transformation into a global IT powerhouse, ushering in an era of wealth and job creation never before seen in the country.
+
+Now, Asia’s third largest economy is ready for the next big frontier in tech: Coming up with a new generation of software companies like Zoom or Slack.
+
+The Covid-19 pandemic has forced business around the world to make huge investments in digital infrastructure, furthering the influence of companies providing software-as-a-service, or SaaS. Businesses spent an extra $15 billion per week last year on tech as they scrambled to create safe remote working environments, according to a KPMG survey.
+
+SaaS companies provide web-based applications that take care of everything from how secure the software is to how well it performs. Some of the world’s most well-known SaaS companies include Zoom (ZM), SAP Concur and Salesforce (CRM), the American behemoth that owns workplace messaging app Slack.
+
+India’s software-as-a-service industry could be worth $1 trillion in value by 2030 and create nearly half a million new jobs, according to a recent report compiled by consulting firm McKinsey & Co. and SaaSBoomi, a community of industry leaders.
+
+There are nearly a thousand such companies in India, of which 10 are unicorns, or startups worth at least $1 billion, the report said.
+
+“This can be as big an opportunity as the IT services industry was in the 90s,” said Girish Mathrubootham, CEO of Freshworks, India’s best-known SaaS company. It filed for an IPO last month, joining a string of other major Indian tech unicorns that are going public this year.
+
+Freshworks was founded more than a decade ago in the southern Indian city of Chennai. Like Salesforce, it provides software to help companies manage relations with their customers. It’s also India’s oldest unicorn in the sector, having raised funds from investors such as Tiger Global and Accel, and has more than 50,000 customers. The company was last valued at $3.5 billion in a 2019 funding round, according to data firm Tracxn.Freshworks was founded more than a decade ago in the southern Indian city of Chennai. Like Salesforce, it provides software to help companies manage relations with their customers. It’s also India’s oldest unicorn in the sector, having raised funds from investors such as Tiger Global and Accel, and has more than 50,000 customers. The company was last valued at $3.5 billion in a 2019 funding round, according to data firm Tracxn.
+
+Other Indian SaaS firms have found traction by focusing on niche businesses. Zenoti, for example, is a unicorn that builds software for the spa and beauty salon industry.
+
+Of India’s 10 SaaS unicorns, six reached that milestone in 2020, and investors around the world are paying attention. Last year, investors pumped $1.5 billion into Indian SaaS companies, four times more than in 2018 or 2019, according to the SaaSBoomi report.

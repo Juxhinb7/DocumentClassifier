@@ -1,0 +1,25 @@
+Stocks quotes in this article: NKE, CCL, RCII, XBI, IWM
+
+If nothing else, the third quarter came to a merciful close on Friday. It is hard to find much positive about the quarter. Interest rates continued to spike, and growth projections continued to be ratcheted down both here and in Europe.
+
+We are now two weeks away from third-quarter earnings season. I believe it is going to be dismal one, complete with falling profit margins, reduced forward guidance, increased hiring freezes and other cost saving measures across a broad swath of the market. If early returns are omens, we are in for a dismal reporting season.
+
+Just on Friday, the stocks of Nike (NKE) , Carnival Corporation (CCL)  and Rent-A-Center, Inc. (RCII)  all got whacked in trading. Nike was punished for a massive inventory build, especially in North America where inventory levels rose 65% from the same period a year ago. Carnival posted a much worse than expected nearly $700 million loss and revenues were $600 million light of the consensus. Rent-A-Center significantly reduced its third quarter earnings forecast as it is seeing lighter retail traffic and deteriorating customer payment behavior.
+
+Given how much pressure the low- and even middle-income consumer is under thanks to the highest inflation in over four decades -- which is significantly reducing buying power -- this is hardly surprising. But it should be noted the company easily beat second-quarter expectations. This might be a sign a good chunk of the consumer population is under more stress than was expected.
+
+These sort of individual company landmines for investors are going to become increasingly common this earnings season in my view. Fortunately, there is a way to at least eliminate company specific risk, while also providing some additional risk mitigation within your portfolio. That is by executing covered call orders around sector or index exchange-traded funds. With volatility rising this quarter, option premiums have increased somewhat which helped this strategy become a bit more attractive.
+
+Two ETFs that I increased my exposure to a bit this week were the SPDR S&P Biotech ETF (XBI)  and the iShares Russell 2000 ETF (IWM) .
+
+Biotech is one of the few sectors of the market that is still above its mid-June lows but is still down some 30% for the year. This ETF gives you broad exposure to a litany of small and midcap biotech companies.
+Option Strategy XBI:
+
+Here is how one can initiate a position in XBI via a covered call strategy. Using the March $80 call strikes, fashion a covered call order with a net debit of right around $69.50 a share (net stock price - option premium).
+
+The Russell 2000 is off just over 25% so far in 2022. The IWM gives one wide exposure to myriad small cap names across all sectors of the economy. The ETF is right at mid-June support levels.
+Option Strategy IWM:
+
+Here is how one can initiate a position in IWM via a covered call strategy. Using the March $165 call strikes, fashion a covered call order with a net debit of right around $150 a share (net stock price - option premium).
+
+Both strategies provide some additional downside protection and have decent upside potential of over 10% even if they trade basically flat over the next six months. The diversification lets an investor avoid any company specific risks. This strategy is akin to create a large synthetic dividend yield for those income investors.
