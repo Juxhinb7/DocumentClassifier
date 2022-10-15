@@ -1,0 +1,13 @@
+Google has improved the access developers have to Maps, providing the ability to build things such as games which offer alternate versions of the real world.
+
+The most obvious example of such a game is Niantic’s Pokémon Go which, while not quite as viral as it once was, remains popular today.
+
+Niantic was once a startup within Google – back when it was known for its less commercially-successful but still groundbreaking AR game, Ingress. The company offers a toolkit for developers wanting to build AR games using real-world data called the Niantic Real World Platform.
+
+Developers wishing to stick to Google’s powerful tools now have the option to do so.
+
+Available as a plugin for popular game engine Unity, Google’s new tool enables developers to manipulate real-world locations or make them points of interest.
+
+Google first made the tools available back in March 2018, albeit only to a limited number of testers. Just 10 games have been made using them but Google says it’s received significant interest from the developer community in wanting to access the tools for their own apps and games.
+
+Since the initial 2018 limited launch, Google says it’s added features including the ability to show higher levels of detail for areas that are closer to a player while reducing detail for those that are farther away. This should help to conserve battery while improving the experience for people in areas with slow mobile data speeds.

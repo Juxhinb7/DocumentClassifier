@@ -1,0 +1,19 @@
+Near-term quantum computers, quantum computers developed today or in the near future, could help to tackle some problems more effectively than classical computers. One potential application for these computers could be in physics, chemistry and materials science, to perform quantum simulations and determine the ground states of quantum systems.
+
+Some quantum computers developed over the past few years have proved to be fairly effective at running quantum simulations. However, near-term quantum computing approaches are still limited by existing hardware components and by the adverse effects of background noise.
+
+Researchers at 1QB Information Technologies (1QBit), University of Waterloo and the Perimeter Institute for Theoretical Physics have recently developed neural error mitigation, a new strategy that could improve ground state estimates attained using quantum simulations. This strategy, introduced in a paper published in Nature Machine Intelligence, is based on machine-learning algorithms.
+
+"We introduce neural error mitigation, which uses neural networks to improve estimates of ground states and ground-state observables obtained using near-term quantum simulations," Elizabeth R. Bennewitz and her colleagues wrote in their paper.
+
+Neural error mitigation (NEM), the new strategy devised by the researchers, has two key components or steps. First, the team used a technique known as neural quantum state tomography (NQST) to train a so-called NQS ansalz to represent an approximate ground state prepared by a noisy quantum device.
+
+NQST is a machine-learning approach that can reconstruct complex quantum state by analyzing a limited number of experimentally collected measurements. Subsequently, Bennewitz and her colleagues used a variational Monte Carlo (VMC) algorithm to improve the existing representation of the unknown ground state. The NQS ansalz used in their experiments was a transformer architecture, a generative machine-learning model that has often been used to generate natural language texts and process images.
+
+Finally, the researchers tested the performance of their neural error mitigation method on a real research problem. Specifically, they tested its ability to identify the ground-state wavefunction and energy of many-body interacting fermioninc molecular Hamiltonians, which is an essential step for running simulations of a molecule's electron correlations.
+
+"To demonstrate our method's broad applicability, we employ neural error mitigation to find the ground states of the H2 and LiH molecular Hamiltonians, as well as the lattice Schwinger model, prepared via the variational quantum eigensolver," the researchers wrote in their paper. "Our results show that neural error mitigation improves numerical and experimental variational quantum eigensolver computations to yield low energy errors, high fidelities and accurate estimations of more complex observables such as order parameters and entanglement entropy without requiring additional quantum resources."
+
+In the future, neural error simulation could be used to reduce noise-associated errors in quantum simulations performed using near-term devices. This could have important implications for many fields of research, including chemistry, physics and materials science, as it could lead to more precise estimates or new insightful discoveries.
+
+"Neural error mitigation is also agnostic with respect to the quantum state preparation algorithm used, the quantum hardware it is implemented on and the particular noise channel affecting the experiment, contributing to its versatility as a tool for quantum simulation," the researchers wrote in their paper.  

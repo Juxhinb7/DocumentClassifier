@@ -1,0 +1,11 @@
+t was only five years ago that electronic punk band YACHT entered the recording studio with a daunting task: They would train an AI on 14 years of their music, then synthesize the results into the album “Chain Tripping.”
+
+“I’m not interested in being a reactionary,” YACHT member and tech writer Claire L. Evans said in a documentary about the album. “I don’t want to return to my roots and play acoustic guitar because I’m so freaked out about the coming robot apocalypse, but I also don’t want to jump into the trenches and welcome our new robot overlords either.”
+
+But our new robot overlords are making a whole lot of progress in the space of AI music generation. Even though the Grammy-nominated “Chain Tripping” was released in 2019, the technology behind it is already becoming outdated. Now, the startup behind the open source AI image generator Stable Diffusion is pushing us forward again with its next act: making music.
+
+Harmonai is an organization with financial backing from Stability AI, the London-based startup behind Stable Diffusion. In late September, Harmonai released Dance Diffusion, an algorithm and set of tools that can generate clips of music by training on hundreds of hours of existing songs.
+
+“I started my work on audio diffusion around the same time as I started working with Stability AI,” Zach Evans, who heads development of Dance Diffusion, told TechCrunch in an email interview. “I was brought on to the company due to my development work with [the image-generating algorithm] Disco Diffusion and I quickly decided to pivot to audio research. To facilitate my own learning and research, and make a community that focuses on audio AI, I started Harmonai.”
+
+Dance Diffusion remains in the testing stages — at present, the system can only generate clips a few seconds long. But the early results provide a tantalizing glimpse at what could be the future of music creation, while at the same time raising questions about the potential impact on artists.

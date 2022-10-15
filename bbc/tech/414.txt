@@ -1,0 +1,15 @@
+The Acer Swift Edge is light enough that you'll question whether you packed it in your bag when you leave for work or class. It weighs just 2.6 pounds (1.2 kilograms) and is only 14 millimeters (0.6 inch) thick. It's a weight you might expect for a small 13-inch laptop and not one with a big 16-inch screen like the Swift Edge. 
+
+Like those of other PC-makers, many of Acer's laptops for 2022 are designed for people who might be working from home, the office or a little of both. And maybe a coffee shop or on a plane, bus or train some of the time, too. Although the Swift Edge's 16-inch display requires extra table space compared to something like a Dell XPS 13, it's remarkably compact. I had no problem using it on a cramped commuter train and being able to quickly slip it into my backpack at my stop was great.
+
+Made from a magnesium-aluminum alloy, the Swift Edge is strikingly similar to LG's Gram 16. The Acer is slightly slimmer and weighs a touch less, though. For however much I love how light it is, the Swift Edge's weight is a double-edged sword. 
+
+Despite wanting lighter-weight devices, there's a point where a laptop gets too light and it's perceived as cheap or flimsy. The alloy used for the chassis is twice as strong as normal aluminum, Acer says. There's a little flex in the lid, but overall the Swift Edge feels rigid. Regardless, it's difficult not to equate weight with sturdiness and some will feel like the Swift Edge is flimsy or plasticky. 
+
+The first configuration available in the US, model SFA16-41-R7SU, is $1,500 and well-equipped for office or school use. 
+
+    2.7GHz AMD Ryzen 7 6800U processor
+    Integrated AMD Radeon graphics
+    16GB LPDDR5 onboard memory  
+    1TB PCIe Gen 4 NVMe solid-state drive  
+    Wi-Fi 6E, Bluetooth 5.2 

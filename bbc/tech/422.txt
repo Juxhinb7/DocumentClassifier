@@ -1,0 +1,19 @@
+A fifteen-year-old Python code vulnerability poses a threat to over 350,000 projects.
+
+A vulnerability discovered in the Python coding language in 2007 could be used to conduct code execution in over 350,000 projects.
+
+An unpatched flaw in the Python programming language now poses a serious threat to hundreds of thousands of projects. The vulnerability, known as CVE-2007-4559, was discovered fifteen years ago but was considered low risk, and therefore was not patched (though a warning was issued to developers about the flaw).
+
+The CVE-2007-4559 flaw exists within the “extract” and “extractall” functions in Python’s tarfile module. It is a path traversal bug, which allows malicious actors to overwrite arbitrary files by uploading a malicious tarfile. This tarfile can then be executed, giving the malicious actor control of a given device.
+
+Over 350,000 open and closed source projects spanning across a range of industries could be exploited via arbitrary path traversal using the CVE-2007-4559 vulnerability.
+
+This particular Python vulnerability was rediscovered early in 2022 by Trellix vulnerability researcher Kasimir Schulz, though this was done accidentally while investigating another security issue. Schulz brought CVE-2007-4559 back into the spotlight, though it was first thought that it was an entirely new zero-day flaw. But it was soon discovered that this was, in fact, the long-standing Python flaw discovered fifteen years prior.
+
+Trellix quickly made a tweet notifying people of the flaw and its threat to Python-based projects.
+
+After this rediscovery, Trellix created patches for over 11,000 projects, though many more projects are thought to receive a patch in the coming weeks. Trellix has also created a free tool, called Creosote, which can be used to scan for the presence of the CVE-2007-4559 tarfile vulnerability.
+
+Though this Python language flaw poses a significant threat to thousands of projects, it seems to have not yet been exploited. Researchers hope that projects will be patched before malicious actors can exploit the flaw, though this may take some time, and the ease of exploitation of CVE-2007-4559 makes it a potentially huge supply chain issue.
+
+Security vulnerabilities are constantly being discovered by researchers and analysts, with cybercriminals eager to exploit them before they receive a patch. This will continue to be a concern across all industries, and will likely cause further issues in the future. In the case of CVE-2007-4559, Trellix is eager to provide projects with repaired code as soon as possible, so that this flaw cannot be abused by malicious actors.

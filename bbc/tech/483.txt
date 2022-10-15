@@ -1,0 +1,15 @@
+Qualcomm has launched Flight RB5 5G, the “world’s first” autonomous drone platform with 5G and AI capabilities.
+
+The company says the platform will support and accelerate the development and deployment of autonomous drones for commercial, enterprise, and industrial purposes. An onboard Qualcomm Secure Processing Unit achieves the modern cybersecurity requirements for drones.
+
+The use cases envisioned by Qualcomm for its drone platform include; security and emergency response, delivery, film and entertainment, defense, inspection, and mapping. Power-efficient inference at the edge via the platform’s high-performance and heterogeneous computing supports AI and machine learning capabilities to enable such use cases.
+
+RB5 5G features 5G and Wi-Fi 6 connectivity to enhance critical flying abilities beyond visual line-of-sight. Through a partnership with Verizon, the 5G mmWave-capable platform is going through network testing and is expected to be offered via the operator’s ThingSpace Marketplace.
+
+Qualcomm’s recent success with the Ingenuity helicopter on Mars adds serious credibility to its new autonomous drone platform.
+
+Ingenuity was in development since 2014 as part of a collaboration between Qualcomm and NASA Jet Propulsion Labs (JPL). Naturally, it faced significant challenges including the need to handle tough environments and overcome a delay of up to 22 minutes after a command has been sent millions of miles away—making real-time control impossible.
+
+Qualcomm took its experience from Ingenuity into the development of its RB5 5G autonomous drone platform. Qualcomm Flight passes JPL’s simulation tests for Mars here on Earth.
+
+The Qualcomm Flight RB5 5G drone reference design is available for pre-sale now through ModalAI. The Qualcomm Flight RB5 5G development kit is expected to become available in Q4 2021.

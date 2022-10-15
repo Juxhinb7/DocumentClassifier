@@ -1,0 +1,11 @@
+Highly anticipated: A recent Chiphell forum post shows Nvidia's RTX 4080 16GB breaking the 3GHz mark in 3DMark TimeSpy. More impressively, Nvidia's new architecture hit those speeds at its default 320w power limit. If true, the RTX 4080 16GB will offer users access to impressive clock speeds without the 4090's reported power requirements.
+
+The news comes on the heels of another recent Chiphell post that reportedly shows the same RTX 4080 running TimeSpy Extreme and FireStrike Ultra at the top of the 3DMark leaderboards. In that original post, the soon-to-be-released RTX 4080 16GB was seen hitting north of 2,500 MHz in the higher resolution Extreme and Ultra tests. In the latest post, which appears to be a run of the standard TimeSpy benchmark, the card reached more than 3GHz with a 1.4GHz memory clock.
+
+While the clock speed is certainly impressive, the reported power draw and temperatures also provide a welcome change from previously leaked RTX 4000 data. The 4080 reached the above speeds using the card's default 320w power draw with spikes as high as 333w and temperatures in the 60C range. GPU hotspot temperatures peaked around 75C.
+
+Based on the data, the 4080 16GB appears to best the previous generation's 3090 Ti by more than 3,500 points in the same benchmark. However, the 4080 16GB should not be confused with its lower-power counterpart, the RTX 4080 12GB. As previously reported, the RTX 4080 will be available in two different variations, the 16GB and 12GB models.
+
+Despite their shared name, the 12GB variant is stripped down in several areas when compared to the 16GB model. The smaller variant will come equipped with 2,000 fewer CUDA cores as well as a 192-bit memory bus, a significant reduction when compared to the 16GB's 256-bit bus.
+
+It's important to remember that any performance information about the RTX 4080 isn't formally published information and may be subject to change once review embargo dates have passed. And as clearly stated by Videocardz, no one is clear on "...how could someone obtain a driver that supports RTX 4080 16GB this soon. This card is not expected to launch until next month and as far as we are aware, there are no drivers for this card yet."

@@ -1,0 +1,22 @@
+Rescuing victims from a burning building, a chemical spill, or any disaster that is inaccessible to human responders could one day be a mission for resilient, adaptable robots. Imagine, for instance, rescue-bots that can bound through rubble on all fours, then rise up on two legs to push aside a heavy obstacle or break through a locked door.
+
+Engineers are making strides on the design of four-legged robots and their ability to run, jump and even do backflips. But getting two-legged, humanoid robots to exert force or push against something without falling has been a significant stumbling block.
+
+Joao Ramos (center), co-inventor of HERMES (left), and Little HERMES (right). Credit: Tony Pulsone
+New control system may enable humanoid robots to do heavy lifting and other physically demanding tasks.
+
+Rescuing victims from a burning building, a chemical spill, or any disaster that is inaccessible to human responders could one day be a mission for resilient, adaptable robots. Imagine, for instance, rescue-bots that can bound through rubble on all fours, then rise up on two legs to push aside a heavy obstacle or break through a locked door.
+
+Engineers are making strides on the design of four-legged robots and their ability to run, jump and even do backflips. But getting two-legged, humanoid robots to exert force or push against something without falling has been a significant stumbling block.
+
+Now engineers at MIT and the University of Illinois at Urbana-Champaign have developed a method to control balance in a two-legged, teleoperated robot — an essential step toward enabling a humanoid to carry out high-impact tasks in challenging environments.
+
+The team’s robot, physically resembling a machined torso and two legs, is controlled remotely by a human operator wearing a vest that transmits information about the human’s motion and ground reaction forces to the robot.
+
+Through the vest, the human operator can both direct the robot’s locomotion and feel the robot’s motions. If the robot is starting to tip over, the human feels a corresponding pull on the vest and can adjust in a way to rebalance both herself and, synchronously, the robot.
+
+In experiments with the robot to test this new “balance feedback” approach, the researchers were able to remotely maintain the robot’s balance as it jumped and walked in place in sync with its human operator.
+
+“It’s like running with a heavy backpack — you can feel how the dynamics of the backpack move around you, and you can compensate properly,” says Joao Ramos, who developed the approach as an MIT postdoc. “Now if you want to open a heavy door, the human can command the robot to throw its body at the door and push it open, without losing balance.”
+
+Ramos, who is now an assistant professor at the University of Illinois at Urbana-Champaign, has detailed the approach in a study appearing today in Science Robotics. His co-author on the study is Sangbae Kim, associate professor of mechanical engineering at MIT.

@@ -1,0 +1,21 @@
+There is a lot of work going into creating the next generation of the web. Most of it is focused on the concept that, rather than traditional web pages, we’ll have a very different experience that is far more immersive. Let’s call it “Web 3D.”
+
+I had a chance to talk with Nvidia’s CEO Jensen Huang who shared his view of Web 3D. While it blends elements of the metaverse, it’s tied more to the AI implementation that will front-end the next generation of the web than it is to the emulation of reality increasingly fund on that new web.
+
+Confused? You aren’t alone, let me try to untangle the concept.
+
+Then we’ll look at my product of the week, a very different Amazon Kindle called Scribe. It shows promise but needs a couple of tweaks to become a great product.
+
+Interestingly, I think Microsoft’s Halo game series got this right to begin with because Cortana, Microsoft’s fictional AI universal interface, is closest to what Huang indicated was his vision of the future web.
+
+In the game and TV series “Halo,” Cortana is what Master Chief interacts with to access the technology around him. Sadly, even though prototypes like the one in this YouTube video were built, Microsoft hasn’t yet taken Cortana to where it could be.
+
+Right now, Cortana lags behind both Siri, Apple’s digital assistant, and Google Assistant.
+
+Huang envisions that an AI front end will become reality with the next generation of the web. You’ll be able to design your AI interface or likely license an already created image and personality from different providers as they step up to this opportunity.
+
+For instance, if you wanted the AI to look like your perfect boyfriend or girlfriend, you could initially describe what you want to an interface and the AI would design one based on what you trained that AI to look for.
+
+Alternatively — and this isn’t mutually exclusive — it could design it based on your known interests, pulling from the cookies and web posts you’ve made during your life. Or you could choose a character from a movie or an actor, which would come with a recurring charge, that would, in character, become that personal interface.
+
+Imagine having Black Widow or Thor as your personal guide to the world of information. They’d behave just as they do in the “Avenger” movies while getting you to the information you’re looking for. Rather than seeing a web page, you’d see your chosen digital assistant which would magically bring up metaverse elements to address your questions.

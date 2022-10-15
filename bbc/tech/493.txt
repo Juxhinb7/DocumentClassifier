@@ -1,0 +1,11 @@
+Alibaba-backed autonomous driving leader AutoX has debuted “Gen5” of its fully driverless robotaxis.
+
+The latest generation system is able to safely navigate China’s complex urban driving situations using its 50 sensors and vehicle control unit packing 2200 TOPS of computing power.
+
+28 cameras are combined to capture a total of 220 million pixels per second, six LiDAR modules collect 15 million points per second, and a 4D RADAR system packing 0.9-degree resolution delivers a 360-degree view around the vehicle.
+
+The use of these sensors enables AutoX to offer what it claims to be the world’s best Level 4 autonomous driving system that is capable of safely driving at high speeds and detecting delivery scooters that are occluded behind vehicles from several hundreds of meters away.
+
+AutoX launched the first commercial robotaxi service in China to operate without safety drivers in January. The company has maintained a perfect safety record six months after it began operating the service.
+
+The announcement from AutoX comes at an opportune time for the company as Apple-backed rival DiDi was ordered this week by Chinese regulators to be removed from the App Store following its $4.4 billion New York listing last week over alleged “serious violations in collecting personal information”.

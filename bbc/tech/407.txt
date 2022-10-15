@@ -1,0 +1,11 @@
+Tesla CEO Elon Musk and other leaders from the automaker’s AI and hardware teams spoke at the company’s 2022 AI Day, an engineer-recruiting event in Palo Alto, Calif., on Friday night.
+
+During the last AI Day in August 2021, Musk said Tesla was building a humanoid robot, known as the Tesla Bot or Optimus. The company didn’t have so much as a prototype to show at that time, and instead presented an dancer, dressed in a Tesla Bot spandex unitard on stage.
+
+This year, Musk and Tesla employees who joined him on stage showed off a bipedal humanoid robot, which they said was only a “rough development robot,” walking and waving its hands in the air. They said the robot was walking around for the first time without any mechanical supports on stage in Palo Alto.
+
+During Friday’s presentation, Tesla employees showed off how the humanoid robot they are developing might function in the future, including with Tesla-designed actuators, which are like the muscle of the robot, and adaptive robotic hands that will allow the robot to grasp and manipulate a wide range of objects.
+
+Milan Kovac, who is Director of Engineering for Autopilot at Tesla according to his LinkedIn profile, said that the company’s experiences developing driver assistance systems for Tesla vehicles, in particular computer vision systems, were helping the company figure out how to make a humanoid robot work in the real world.
+
+While robotics experts have said that Tesla does not require a bipedal robot in order to put better automation to work in its factories, Tesla employees spoke at length on Friday about their dedication to the human form. Employees also said they were working on a special battery and actuators for their robots to keep power consumption to a minimum so their robot could work for a full day on a single charge.

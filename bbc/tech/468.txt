@@ -1,0 +1,20 @@
+Video calls have transformed the way we communicate but European operators are now testing what could be the future of our conversations: holographic calls.
+
+The idea would be that rather than just seeing a real-time video, you would see a 3D virtual person like a hologram.
+
+Mobile operators Deutsche Telekom, Orange, Telefónica and Vodafone have joined forces with the deep tech company MATSUKO which is spearheading the move to 3D calls.
+
+The Slovenian company developed a technology that is focused on making Star Wars holograms but is using similar tech to make more life-like holograms.
+
+The telecom companies announced on Wednesday they had participated in a pilot programme to try out the holographic calls, which are aiming to have a “broadcast quality”.
+
+The tech works by using 5G, a mobile network that makes the Internet run faster and is designed to connect everyone and everything together, such as machines. A smartphone camera captures a 2D video of the person sending the hologram. The video stream is then processed in the cloud to turn it into a 3D hologram which can be broadcast to viewers.
+
+This initial proof of concept test enabled a holographic call so that the viewer could see a virtual hologram-type person.
+
+Although the sender does not need any Mixed Reality (MR), Virtual Reality (VR) or Augmented Reality (AR) hardware, those viewing the hologram may need it. However, it can still be seen just with a smartphone.
+
+“This proof of concept moves holographic communications dramatically on from science fiction to real-life smartphones,” Alex Froment-Curtil, Chief Commercial Officer of Vodafone, said in a statement.
+
+Telecom companies are turning their attention to the metaverse, an immersive virtual world that is yet to fully exist but is seen by some as the future of how we will work, socialise and connect.
+

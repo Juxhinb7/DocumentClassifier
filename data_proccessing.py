@@ -2,16 +2,16 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 def fit_and_transform_dataset(x: str, dataset: str):
-    with open(dataset, "r") as f:
+    with open(dataset, "r", encoding="utf-8", errors="ignore") as f:
         lines = f.readlines()
-        vec = TfidfVectorizer()
+        vec = TfidfVectorizer(min_df=1170, sublinear_tf=True)
         texts = []
         labels = []
         for line in lines:
             linepath = line.strip().split()[0]
             label = line.strip().split()[1]
             labels.append(label)
-            with open(linepath, "r") as f2:
+            with open(linepath, "r", encoding="utf-8", errors="ignore") as f2:
                 lines2 = f2.readlines()
                 text = ""
                 for line2 in lines2:

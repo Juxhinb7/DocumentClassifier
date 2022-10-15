@@ -1,0 +1,15 @@
+HERE Technologies, Vodafone, and Porsche have developed a real-time warning system for vehicles as part of their joint effort to improve road safety.
+
+The partners have been studying how 5G can improve road safety when combined with the real-time identification and localisation of hazardous traffic situations.
+
+A real-time warning system is being developed as part of the feasibility study that can warn vehicles and their drivers, without delay, of any problems so they can be responded to immediately. Tests are ongoing at the Vodafone 5G Mobility Lab in Aldenhoven.
+
+A core focus of the system is to provide warnings that are beyond the immediate sight of the driver or vehicle, such as when traffic is blocking the view ahead.
+
+Multi-access Edge Computing is used to process data so that latency is minimised. The use of 5G, which also minimises latency, allows for alerts to be passed to road users in under ten milliseconds using an intelligent MQTT message broker.
+
+Antina Lee, from the Product Innovation team at HERE Technologies, commented:
+
+HERE Technologies’ Live Sense SDK identifies upcoming dangerous situations through combining AI with computer vision to identify objects and changes in the behaviour of other road users or road conditions that could lead to hazardous situations.
+
+The three partners plan to further optimise their real-time warning system and perform additional tests at different locations under a variety of conditions. This will enable the companies to evaluate the potential of the technology to improve road safety in a real-world deployment.

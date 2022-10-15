@@ -1,0 +1,14 @@
+A threat intelligence firm has detected various malicious phishing websites operated by threat groups in the Western Uttar Pradesh region. 
+
+An Uttar Pradesh-based group is operating hundreds of malicious that impersonate popular Indian brands to defraud the public, according to a report by CloudSEK, an AI-powered threat intelligence firm. The websites impersonate that of major brands including telecom companies, banks, payment wallets and courier services.
+
+Using these websites, the group dupes victims into sharing their personally identifiable information (PII) and OTPs. The PII can be sold or used to conduct further scams. The OTPs are used to gain access to the victims’ accounts so that they can carry out fraudulent transactions after locking the user out.
+
+According to CloudSEK, there is a correlation between such fraudulent domains registered and the significant growth in the use of Aadhaar-based authentication. The threat intelligence firm also found various domains identifying cheap printing and lamination services to scam people. It found that these websites advertise similar services with fake customer support numbers, mainly from the Western Uttar Pradesh region.
+
+These websites use many different methods to lure unsuspecting victims. One method is where they spam victims with messages, emails or social media communication which include the URLs of the website. These often come with the promise of partnership or financial returns. Enticed by the offer of easy money, users click the link and visit the website. The domain names are also distributed using SEO techniques, Google Ads, YouTube videos and through social media pages.
+
+Make sure that you only enter your Aadhaar and other identification data into official government websites with the “.gov.in” extension. Be careful when using sites without this extension.
+
+Make sure that you ignore emails and messages from unknown parties, especially when they promise some sort of financial reward.
+

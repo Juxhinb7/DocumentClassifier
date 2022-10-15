@@ -1,0 +1,10 @@
+Tech giant Google has introduced its own video-generating AI titled 'Imagen Video' that would compete with Meta's 'Make-A-Video' offering.
+
+'Imagen Video' is a text-conditional video generation system based on a cascade of video diffusion models.
+
+According to a Google paper, given a text prompt, 'Imagen Video' generates high-definition videos using a base video generation model and a sequence of interleaved spatial and temporal video super-resolution models.
+
+Google said that Imagen Video is not only capable of generating videos of high fidelity but also having a high degree of controllability and world knowledge, including the ability to generate diverse videos and text animations in various artistic styles and with 3D object understanding.
+
+'Imagen Video' consists of 7 sub-models which perform text-conditional video generation, spatial super-resolution, and temporal super-resolution.
+With the entire cascade, Imagen Video generates high definition 1280×768 videos at 24 frames per second, for 128 frames -- approximately 126 million pixels, according to the company.

@@ -1,0 +1,17 @@
+Researchers at the University of Kyoto designed a "shared-laughter" model where a human initially laughs and the AI system responds with laughter as an empathetic response.
+
+Researchers at the University of Kyoto are trying to teach a robot how to laugh. The researchers developed an approach to building a “sense of humour” for the Japanese android Erica, which is described in a research article published in Frontiers in Robotics and AI.
+
+Robots cannot detect laughter or even laugh at a joke but instead, researchers want to recreate the human nuances of humour for an AI system so that it can improve how natural conversations can get between robots and people.
+
+“We think that one of the important functions of conversational AI is empathy. Conversation is, of course, multimodal, not just responding correctly. So we decided that one way a robot can empathize with users is to share their laughter, which you cannot do with a text-based chatbot.” said lead author Koji Inoue, in a press statement. Inoue is an assistant professor at Kyoto University in the Department of Intelligence Science and Technology within the Graduate School of Informatics.
+
+In the shared-laughter model created by the researchers, a human initially laughs and the AI system responds with empathetic laughter. To create this, the researchers needed to design three subsystems: one to detect laughter, a second to decide whether to laugh and a third to choose the type of appropriate laughter.
+
+The researchers began by gathering training data by annotating dialogues from a speed dating session. Speed dating is a matchmaking process where people have short conversations with a large number of people in order to see if there is any mutual interest with anyone. For this purpose, the researchers used data from a speed dating session involving Kyoto University students and the robot Erica, who was operated by different amateur actresses.
+
+“Our biggest challenge in this work was identifying the actual cases of shared laughter, which isn’t easy because as you know, most laughter is actually not shared at all. We had to carefully categorize exactly which laughs we could use for our analysis and not just assume that any laugh can be responded to,” added Inoue. Another important thing was to ensure that the AI responds with the right type of laughter. For example, laughing out loud could make things awkward in a situation which only warrants a polite chuckle.
+
+After training the robot on this data, the time came to test Erica’s newly-obtained sense of humour. They began by creating four short two-to-three minute-long dialogues between a person and Erica, now equipped with the shared-laughter system. Along with this, they also added two sets of dialogues: one where Erica didn’t laugh at all, and one where she emitted a “social laugh” every time she detected laughter.
+
+The clips of these dialogues were then played to 130 volunteers who rated them based on empathy, naturalness, human-likeness and understanding. The shared-laughter system performed better than the other two.

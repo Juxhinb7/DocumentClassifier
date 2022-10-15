@@ -1,0 +1,17 @@
+Apple developers wanting to optimise their listing and marketing strategies can now register for the next round of App Store Sessions.
+
+The sessions connect developers with Apple’s experts to learn more about all things App Store, including:
+
+    Improving your listing pages
+    Attracting customers
+    Testing marketing strategies
+    Implementing subscriptions
+    Successfully using TestFlight for beta tests
+
+App Store Sessions were first introduced in February to significant interest. They follow the success of Apple’s live Tech Talks; over 100 sessions and workshops that ran from Oct-Dec 2021.
+
+“Discover how to attract new customers, test marketing strategies, add subscriptions, and so much more. Live presentations with Q&A will be held throughout August in multiple time zones and languages,” wrote Apple in a post on its developer website.
+
+The latest round of App Store Sessions will run from 1st August until the week of 29th August. Apple says that more than 75 online sessions will be available globally.
+
+Participants must be members of the Apple Developer Program. If that includes you, head over to Apple’s website here to see the full schedule and register.

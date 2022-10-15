@@ -1,0 +1,1 @@
+Rigel Kent Security  amp; Advisory Services notified Symantec of three high-risk vulnerabilities they identified in the Symantec Firewall/VPN Appliance during an assessment.

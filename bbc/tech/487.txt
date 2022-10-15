@@ -1,0 +1,15 @@
+Apple has launched a GymKit Certification Assistant app that should help with streamlining approvals.
+
+GymKit launched in 2017 and enables the Apple Watch to pair with supported gym equipment for quick and accurate syncing of information.
+
+The rollout of GymKit has been steady but probably not quite at the pace that Apple envisioned. Part of the reason may be the cumbersome certification process, so Apple is simplifying it.
+
+In the app’s description, Apple explains:
+
+    “Use the GymKit Certification Assistant to test pairing, connection, and additional key requirements for fitness equipment you developed to incorporate GymKit technology.”
+
+Users will be guided through testing NFC connectivity, ensuring data accuracy, and that information provided to users is correct.
+
+Post-launch, the app will also help companies troubleshoot bugs with their GymKit integration.
+
+While it’s likely that Apple’s GymKit partners have had access to a version of the app for some time, deploying it more publicly should help to increase the availability of compatible gym equipment.

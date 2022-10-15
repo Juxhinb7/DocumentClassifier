@@ -1,0 +1,9 @@
+Apple on Thursday issued an update to iOS, the iPhone’s operating system, that fixes several bugs that cropped up as part of the iPhone 14 launch last week.
+
+Although Apple often releases software updates after a phone launch due to bugs that emerge, several issues with the new iPhones were widely discussed on social media and in reports.
+
+Of particular note, iOS 16.0.2 fixes a camera vibration issue inside third-party apps like Snapchat and TikTok, in which the camera would make an audible noise when trying to focus. It also fixes a problem with transferring data from an old iPhone to an iPhone 14. In such transfers, the display on the new device would sometimes appear completely black, requiring a hard reset.
+
+Another fix from Apple is to a pop-up that constantly warned users that they were copying and pasting, which was initially thought to be a security feature but was later discovered to be a bug.
+
+The software change log also says that Apple fixed a voiceover issue as well as a problem with touch not responding on older devices.

@@ -1,0 +1,17 @@
+Scientists have built a dog-sized robot with four-legs which learns how to walk.
+
+Just like young animals stumble and stutter as they get their bearings on their legs for the first time, the robot learns from its experiences, improving its technique as it goes.
+
+Built to fill in the gaps in our knowledge around how animals learn to walk, the robot can achieve the task within an hour.
+
+Scientists have built a dog-sized robot with four-legs which learns how to walk.
+
+Just like young animals stumble and stutter as they get their bearings on their legs for the first time, the robot learns from its experiences, improving its technique as it goes.
+
+Built to fill in the gaps in our knowledge around how animals learn to walk, the robot can achieve the task within an hour.
+
+The team behind the quick-learning dog-bot says it was built with animal-like features, and a computer to help gauge mistakes and learn to rectify them.
+
+"As engineers and roboticists, we sought the answer by building a robot that features reflexes just like an animal and learns from mistakes," said Felix Ruppert, a former doctoral student in the Dynamic Locomotion research group at the Max Planck Institute for Intelligent Systems (MPI-IS) in Stuttgart.
+
+"If an animal stumbles, is that a mistake? Not if it happens once. But if it stumbles frequently, it gives us a measure of how well the robot walks".

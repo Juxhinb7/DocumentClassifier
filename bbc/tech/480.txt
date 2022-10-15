@@ -1,0 +1,15 @@
+Search engine Neeva has today (6 October) launched in Europe in a bid to challenge Google’s dominance, by giving web users honest search results, no tracking and with no advertisements or affiliate links.
+
+Neeva has already acquired over 600,000 users in the US, following its 2021 launch, and is now bringing its platform to the UK, with its aim of offering users greater control over search and delivering honest results.
+
+Founded by Sridhar Ramaswamy, an ex-senior vice president of advertising at Google, and Vivek Raghunathan, an ex-vice president of monetisation at YouTube, Neeva claims to be “reinventing web search for good”, challenging Google’s web-search dominance. Neeva’s European expansion follows a successful 2021 $40m ‘Series B’ funding round.
+
+The intention with Neeva is to put users first and give consumers control to customise their web search experiences. By eschewing ads and advertisers, Neeva eliminates the corporate bias that has increasingly plagued the traditional search experience over the last 20 years.
+
+Neeva’s sole stated goal is to create a search engine that delivers the best and most transparent results as quickly as possible. Users can select their preferred information sources – such as news outlets, shopping, software engineering sites, travel and others – based on personal preference and relevance, rather than what advertisers suggest. This is all done while still respecting users’ privacy by blocking third-party tracking and never profiting from user data.
+
+Commenting on Neeva’s launch, Ramaswamy, CEO, said: “Neeva is a user-first platform focused on private, transparent searches versus a search engine serving advertisers. The internet should be your private corner of the web instead of a barrage of ads, SEO spam and irrelevant information.
+
+“We’re reinventing search by giving users control over sources; providing accurate and transparent results as well as private and customised experiences without the influence of corporate bias, tracked around the web.” 
+
+Neeva offers a freemium model and will first launch its private, ad-free free basic service in Europe, later introducing its premium subscription model with additional features such as a VPN and password manager. Neeva operates its own independent search stack, returning fast results with high levels of accuracy, drawing from an index of billions of web pages.

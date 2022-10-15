@@ -1,0 +1,24 @@
+New underwater camera could help scientists explore unknown regions of the ocean, track pollution, or monitor the effects of climate change.
+
+More than 95 percent of Earth’s oceans have never been observed, according to estimates by scientists, which means we have seen less of our planet’s ocean than we have the far side of the moon or the surface of Mars.
+
+One steep challenge preventing widespread undersea exploration is the high cost of powering an underwater camera for a long time. Doing so now requires tethering it to a research vessel or frequently sending a ship to recharge its batteries.
+
+MIT engineers have taken a major step to overcome this problem by developing an ultra-efficient battery-free, wireless underwater camera. In fact, it is about 100,000 times more energy-efficient than other undersea cameras. Even in dark underwater environments, the device can take color photos and transmit image data wirelessly through the water.
+
+What makes this autonomous camera especially unique is that it is powered by sound. It converts mechanical energy from sound waves traveling through water into electrical energy that powers its imaging and communications equipment. After capturing and encoding image data, the camera also uses sound waves to transmit data to a receiver that can reconstruct the image.
+
+Because it doesn’t require a power source, the camera could run for weeks on end before retrieval This would enable scientists to search remote parts of the ocean for new species. It could also be used to capture images of ocean pollution or monitor the health and growth of fish raised in aquaculture farms.
+
+“One of the most exciting applications of this camera for me personally is in the context of climate monitoring. We are building climate models, but we are missing data from over 95 percent of the ocean. This technology could help us build more accurate climate models and better understand how climate change impacts the underwater world,” says Fadel Adib, senior author of a new paper on the system. He is an associate professor in the Department of Electrical Engineering and Computer Science and director of the Signal Kinetics group in the MIT Media Lab.
+
+Joining Adib on the paper are co-lead authors and Signal Kinetics group research assistants Sayed Saad Afzal, Waleed Akbar, and Osvy Rodriguez, as well as research scientist Unsoo Ha, and former group researchers Mario Doumet and Reza Ghaffarivardavagh. The paper is published today (September 26, 2022) in the journal Nature Communications.
+Going battery-free
+
+To build a camera that could operate autonomously for long periods, the scientists needed a device that could harvest energy underwater on its own while consuming very little power.
+
+Transducers made from piezoelectric materials are placed around the camera’s exterior and are used to acquire energy. Piezoelectric materials produce an electric signal when a mechanical force is applied to them. When a sound wave traveling through the water hits the transducers, they vibrate and that mechanical energy is converted into electrical energy.
+
+Those sound waves could come from any source, like a passing ship or marine life. The camera stores harvested energy until it has built up enough to power the electronics that take photos and communicate data.
+
+To keep power consumption as low as possible, the engineers used off-the-shelf, ultra-low-power imaging sensors. However, these sensors only capture grayscale images. And since most underwater environments lack a light source, they needed to develop a low-power flash, too.

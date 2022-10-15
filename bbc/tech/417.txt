@@ -1,0 +1,17 @@
+Here is what the rollout of 5G networking technologies could mean for the future of connected vehicles.
+
+The rollout of 5G networks in India was officially inaugurated on Saturday. The 5th generation cellular network technology promises faster download speeds, lower latency connectivity and higher bandwidths over its predecessor, 4G. But it is not just internet browsing experience that will be radically different on 5G. The new technology will be critical for several new use cases, including connected vehicles and infrastructure.
+
+As 5G-connected vehicles become more common, the initial applications of connected vehicles might be limited to better infotainment systems and OTA software updates. But as technology evolves, connected vehicles could gain more importance. In the future, it could ensure that cars and drivers are informed about roadblocks, traffic snarls, parking places, driving conditions and a whole lot more.
+
+5G and cars: What is next?
+
+Currently, many technology companies are working on such C-V2X (Cellular Vehicle-to-Everything) technologies. Once implemented, it will pave the way for “cooperative intelligent transport systems (C-ITS). C-ITS will help reduce congestion and pollution on highways and in cities.
+
+This could open the road to a future where automated vehicles ply the roads safely while simultaneously communicating with the road infrastructure like traffic signals, other vehicles on the road and other IoT (Internet-of-things) devices, including pedestrians and cyclists’ devices.
+
+According to Nokia, the higher speed, bandwidth and lower latency of 5G in the future could support data-intensive vehicle applications like real-time situational awareness and high-definition sensor data sharing.
+
+Swedish telecom company Ericsson says that it has demonstrated driving a small vehicle remotely over a commercial 5G network at the India Mobile Congress 2022. According to the company, 5G remote driving of trucks and other vehicles will help enterprises avoid sending their staff to potentially dangerous zones. While autonomous vehicles are still far from mass adoption, real-world experiments with 5G-connected vehicles have already begun.
+
+In 2021, Telefónica, Ineco, Nokia, Stellantis, CTAG and SICE worked together to install sensors and 5G transmitters in the Cereixal tunnel in Spain, according to an Ineco press statement. With the new system in place, the “intelligent tunnel” is able to send information to drivers, including about road works, slow vehicle warnings, congestion possibility, accidents, road obstacles, pedestrian presence, vehicles, emergency vehicle entries, and weather conditions at the exit.

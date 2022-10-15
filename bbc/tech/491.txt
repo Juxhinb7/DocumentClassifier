@@ -1,0 +1,25 @@
+The source code for an info-stealing malware based on Rust has leaked on hacking forums.
+
+Security analysts claim the malware is actively used in attacks and it appears to have a high antivirus evasion rate. VirusTotal returns a detection rate of around 22 percent.
+
+The developer claims to have developed the malware in just six hours. Despite being based on Rust, the malware currently only targets Windows machines.
+
+Cybersecurity firm Cyble analysed the malware and named it Luca Stealer.
+
+Cyble found Luca Stealer “can target multiple Chromium-based browsers, chat applications, crypto wallets, and gaming applications and has the added functionality of stealing victims’ files.”
+
+In total, Luca Stealer targets:
+
+    31 browsers
+    17 password managers
+    19 browser crypto wallets
+    10 “cold” crypto wallets
+    7 applications (Steam, ICQ, Telegram, Skype, Element, Discord, and Uplay)
+
+The malware was designed to exfiltrate stolen data using a Telegram bot. However, due to the limitation of only being able to upload data in sizes up to 50 MB, compatibility with Discord webhooks was added to the stealer.
+
+All data is compressed in a ZIP archive and is accompanied by a summary of what’s included so the attacker can get a quick idea of their loot.
+
+“As the stealer is written in Rust and is released for free, we can expect it to be adopted by multiple threat actors across the world,” adds Cyble.
+
+If you do seek out the source code, please only use it for research purposes.

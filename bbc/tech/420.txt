@@ -1,0 +1,15 @@
+The Nvidia RTX 4090 with 24GB of memory will cost $1,599 and go on sale on October 12.
+
+Nvidia Corp., the most valuable semiconductor maker in the US, unveiled a new type of graphics chip that uses enhanced artificial intelligence to create more realistic images in games.
+
+Codenamed Ada Lovelace, the new architecture underpins the company’s GeForce RTX 40 series of graphics cards, unveiled by co-founder and Chief Executive Officer Jensen Huang at an online event Tuesday. The top-of-the-line RTX 4090 will cost $1,599 and go on sale Oct. 12. Other versions that come in November will retail for $899 and $1,199.
+
+The high-end version of the new chip will have 76 billion transistors and will be accompanied by 24GB of onboard memory on the RTX 4090, making it one of the most advanced in the industry. Nvidia is relying on Taiwan Semiconductor Manufacturing Co. to produce the processor with its so-called 4N technology while Micron Technology Inc. is the memory provider. Nvidia has been using Samsung Electronics Co. to make Ada’s predecessor.
+
+The new technology promises to speed up the rate at which cards generate images using the traditional method of calculating where pixels are located on the screen while at the same time using AI to simulate others. It’s continuing a shift that Nvidia is pioneering that allows computers to make images appear more natural by building them using calculations of the path of individual rays of light.
+
+The approach could give customers a fresh reason to upgrade their technology — something Nvidia could use right now. The chipmaker is suffering from a steep slowdown in demand for PC components. Last month, Nvidia reported much lower quarterly sales than it originally predicted and gave a disappointing forecast.
+
+Nvidia has been forced to deliberately slow down shipments to make sure its customers — primarily makers of graphics cards sold as add-ins for high-end computers — work through their stockpiles of unused inventory. That process should be completed by the end of the year, Huang has said.
+
+The new generation of technology, named after a 19th-century mathematician who many consider the first computer programmer, will improve existing games immediately and also learn from gameplay. That intelligence will go back to Nvidia, which will use its own computers to further improve the cards’ software.

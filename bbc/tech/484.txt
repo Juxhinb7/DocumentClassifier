@@ -1,0 +1,18 @@
+Analysts from GlobalData have revealed the advances they believe will power the metaverse and drive adoption.
+
+“Latency is a key hindrance to the metaverse adoption. Several companies are trying to address this issue from various angles as per their technical or business acumen,” said Kiran Raj, Practice Head of Disruptive Tech at GlobalData.
+
+“Potential solutions could be in terms of network protocols, software applications, or hardware such as chips and AR and VR devices.”
+
+Among the potential solutions is a new internet protocol by Syntropy called DARP (Decentralised Autonomous Routing Protocol). DARP connects data centres around the world and can detect performance issues and instantly switch to a better-performing channel. 
+
+GlobalData says that new protocols like DARP will reduce network latency and help to support the metaverse and web 3.0 applications through its decentralisation properties.
+
+Another latency-buster on GlobalData’s list is Wi-Fi 7. GlobalData says that advanced multi-link operation (MLO) enables Wi-Fi 7 devices to aggregate channels and quickly switch between them—maintaining performance in high-density, congested networks.
+
+“Data flow needs to be quick and continuous as the demand for higher internet speed is increasing every day with the advent of emerging technologies,” comments Abhishek Paul Choudhury, Senior Disruptive Tech Analyst at GlobalData.
+
+“Decentralised routing protocols along with technological advancements like Wi-Fi 7, blockchain, and edge computing can bring in better throughput and low latency as compared to the existing network capabilities.”
+
+On the applications side, GlobalData points towards a SaaS-based conferencing app created by Swiss startup TYXIT. The app’s patented technology support latency of under 30ms – akin to playing in the same room – which could enable real-time sound transfer for immersive experiences like concerts in the metaverse.
+

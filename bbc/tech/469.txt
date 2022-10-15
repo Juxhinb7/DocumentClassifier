@@ -1,0 +1,17 @@
+We’ve all heard of e-books, but augmented reality might soon be giving us a brand new reading experience.
+
+So-called "augmented books" - or "a-books" - could be coming to shelves near you in the future, with the University of Surrey announcing the latest version of a research project which seeks to combine the best of both physical and electronic books.
+
+Like electronic books, augmented books would allow readers to access extra information or multimedia content about what they are reading; all while keeping the look and feel of a physical book.
+
+For example, a fantasy novel reader could swipe their fingers over a character’s name in their augmented book, and have associated information such as their family tree pop up on their smartphone or another device.
+
+Tourists could open up a physically augmented travel guidebook, and then have up-to-date information such as train times or opening hours flash up on their smartphone or other devices.
+
+"An a-book is something in between an e-book and a traditional book," Dr Radu Sporea, a senior lecturer at the University of Surrey’s Advanced Technology Institute, told Euronews Next.
+
+"We’re familiar with traditional books obviously, and e-books are everywhere. They all have obvious benefits, but they all have downsides. And what we’re trying to do is to reconcile the benefits of both, without bringing the downsides".
+
+At a basic level, the idea is for a user to be able to flick through a physical book, and then have the book know what they are reading and be able to relay that information to a nearby device, such as a TV or a smartphone.
+
+For around five years, Sporea and his colleagues have worked through various iterations of augmented book technology.

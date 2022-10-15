@@ -1,0 +1,15 @@
+Scientists may have moved us one step closer to creating truly life-like robots, after successfully covering a robotic finger with living skin that can heal when damaged.
+
+In a process that sounds like something out of a sci-fi movie, the robotic parts are submerged in a vat of jelly, and come out with living skin tissue covering them.
+
+The skin allows for the finger to move and bend like a human finger, and cuts can even be healed by applying a sheet of gel.
+
+It also provides a realism that current silicone skin made for robots cannot achieve, such as subtle textures like wrinkles, and skin-specific functions like moisture retention.
+
+The scientists behind the work say it is “the first step of the proof of concept that something could be covered by skin”, although it may still be some time before an entire humanoid is successfully covered.
+
+Previous attempts at covering robots with living skin sheets have only had limited success due to the difficulty of fitting them to dynamic objects with uneven surfaces.
+
+The team at the University of Tokyo in Japan may have solved this problem, using a novel method to cover the robotic finger with skin.
+
+The finger is submerged in a cylinder filled with the jelly - a solution of collagen and human dermal fibroblasts, the two main components that make up the skin’s connective tissues.

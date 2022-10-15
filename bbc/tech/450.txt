@@ -1,0 +1,13 @@
+In recent years, engineers and computer scientists have created a wide range of technological tools that can enhance fitness training experiences, including smart watches, fitness trackers, sweat-resistant earphones or headphones, smart home gym equipment and smartphone applications. New state-of-the-art computational models, particularly deep learning algorithms, have the potential to improve these tools further, so that they can better meet the needs of individual users.
+
+Researchers at University of Brescia in Italy have recently developed a computer vision system for a smart mirror that could improve the effectiveness of fitness training both in home and gym environments. This system, introduced in a paper published by the International Society of Biomechanics in Sports, is based on a deep learning algorithm trained to recognize human gestures in video recordings.
+
+"Our commercial partner ABHorizon invented the concept of a product that can guide and teach you during your personal fitness training," Bernardo Lanza, one of the researchers who carried out the study, told TechXplore. "This device can show you the best way to train based on your specific needs. To develop this device further, they asked us to investigate the viability of an integrated vision system for exercise evaluation."
+
+The low-cost computer vision system developed by Lanza and his colleagues utilizes a skeletonization algorithm (i.e., a deep learning algorithm that can attain skeletons from images), running on an embedded Nvidia Jetson Nano device with two fisheye cameras. As part of their study, the researchers trained this system to process and detect human movements in the video footage captured by the two fisheye cameras.
+
+"A vision system, like the one we developed, can extract information from images by means of an AI algorithm," Lanza said. "Our most recent paper demonstrates the accuracy of our system in measuring arm movements in simple fitness exercises, such as biceps curls."
+
+In one of their previous studies, the researchers presented a software design that could be used to create a comprehensive prototype of the smart fitness mirror envisioned by AB-Horizon. Their goal was to produce a device with production costs, a high performance, and a low energy consumption.
+
+"The main advantage of our system is the absence of objects in contact with the user," Lanza explained. "With cameras and AI applications, we understand and assess body motion, detect postural errors, and analyze simple fitness exercises. Nowadays our system analysis is based on simple body variables (elbow angle, hand position…) but we are working to improve the evaluation capability of the machine."

@@ -1,0 +1,15 @@
+Here's how the newer hardware and software affect real-world use.
+
+Apple's iPhone 14 Pro has several camera system improvements that have led to stellar reviews, including a 48-megapixel sensor and the company's new image-processing technique called the Photonic Engine. This immediately puts the iPhone 14 Pro at an advantage over last year's iPhone 13 Pro and 13 Pro Max, at least on paper. 
+
+But how big of a difference do these new hardware and software features actually make in the real world? 
+
+I compared the cameras on both phones in a range of challenging situations around San Francisco to find out. All these photos were taken in the default camera app on the iPhone 14 Pro and iPhone 13 Pro, both running the latest version of iOS 16.
+
+You can find out more about the specific improvements to the iPhone 14 Pro's camera system in this deep dive by my colleague Stephen Shankland. CNET's Patrick Holland also has a great analysis into the iPhone 14 Pro's photos and how the 
+
+Photonic Engine helps boost photo quality in challenging lighting conditions.
+
+On the hardware front, the biggest change between the two phones is the 14 Pro's new 48-megapixel sensor on the main wide camera that's also physically larger than the older iPhone, which makes just as much of a difference to photo quality as the increase in megapixels. The 13 Pro uses a 12-megapixel sensor.
+
+Using a technique called pixel binning, the iPhone 14 Pro joins four pixels together into groups to capture 12-megapixel photos with more detail. You can also take a full 48-megapixel image if you shoot in Apple's ProRaw format, and that gives photographers more flexibility when it comes to editing and recovering shadow and highlight detail among many other advantages.

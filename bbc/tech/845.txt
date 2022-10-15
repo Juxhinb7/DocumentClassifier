@@ -1,0 +1,1 @@
+"SAN FRANCISCO -- Intel Corp.'s decision to begin shipping versions of x86 processors that are capable of 64-bit computing has slowed down the adoption of the company's high-end Itanium processors

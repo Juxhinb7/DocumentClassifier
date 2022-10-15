@@ -1,0 +1,23 @@
+A team of engineers and doctors at the University of Minnesota Twin Cities have designed a unique 3D-printed light-sensing medical device that is placed directly on the skin and gives real-time feedback to correlate light exposure with disease flare-ups. The device could help millions of people worldwide with lupus and other light-sensitive diseases by providing access to more personalized treatments and information to determine what causes their symptoms.
+
+The research was published in Advanced Science, an interdisciplinary premium open access scientific journal. The researchers have also filed a patent on the device and the technology is available for licensing.
+
+According to the Lupus Foundation of America about 1.5 million Americans, and at least 5 million people worldwide, have a form of lupus. Light sensitivity is common in people with lupus with 40 to 70 percent of people with lupus finding that their disease is made worse by exposure to sunlight or even artificial light indoors. The symptoms of these flare ups for patients with lupus include rashes, joint pain, and fatigue.
+
+"I treat a lot of patients with lupus or related diseases, and clinically, it is challenging to predict when patients' symptoms are going to flare," said University of Minnesota Medical School dermatologist Dr. David Pearson and co-author of the study. "We know that ultraviolet light and, in some cases visible light, can cause flares of symptoms—both on their skin, as well as internally—but we don't always know what combinations of light wavelengths are contributing to the symptoms."
+
+Pearson had heard about the groundbreaking, customized 3D-printing of wearable devices developed by University of Minnesota mechanical engineering Professor Michael McAlpine and his team and contacted him to collaborate on finding a solution for his problem.
+
+McAlpine's research group worked with Pearson to develop a first-of-its-kind fully 3D-printed device with a flexible UV-visible light detector that could be placed on the skin. The device is integrated with a custom-built portable console to continuously monitor and correlate light exposure to symptoms.
+
+"This research builds upon our previous work where we developed a fully 3D printed light-emitting device, but this time instead of emitting light, it is receiving light," said McAlpine, a co-author of the study and Kuhrmeyer Family Chair Professor in the Department of Mechanical Engineering. "The light is converted to electrical signals to measure it, which in the future can then be correlated with the patient's symptoms flare ups."
+
+McAlpine said that developing the device, however, was no easy task. The 3D-printed device consists of multiple layers of materials printed on a biocompatible silicone base. The layers include electrodes and optical filters. Filters could be changed out depending on the wavelength of light that needs to be assessed. The research team also used zinc oxide to collect the ultraviolet (UV) light and convert it to electrical signals. The device is mounted on the skin and a custom-built console is attached to capture and store the data.
+
+The research team has received approval to begin testing the device on human subjects and will soon begin enrolling participants in the study.
+
+"We know these devices work in the lab, but our next step is really to put them into the hands of patients to see how they work in real life," Pearson said. "We can give them to participants and track what light they were exposed to and determine how we can predict symptoms. We will also continue testing in the lab to improve the device."
+
+McAlpine and Pearson said the 3D-printing process is relatively low-cost and could someday provide easy, quick access to the device without the expensive fabrication processes of traditional devices.
+
+"There is no other device like this right now with this potential for personalization and such easy fabrication," Pearson said. "The dream would be to have one of these 3D printers right in my office. I could see a patient and assess what light wavelengths we want to evaluate. Then I could just print it off for the patient and give it to them. It could be 100 percent personalized to their needs. That's where the future of medicine is going." 

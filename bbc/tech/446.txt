@@ -1,0 +1,23 @@
+The technology, which has been tested in the lab, could ultimately be used for manufacturing and building in difficult-to-access or dangerous locations such as tall buildings or help with post-disaster relief construction, say the researchers. 
+
+3D printing is gaining momentum in the construction industry. Both on-site and in the factory, static and mobile robots print materials for use in construction projects, such as steel and concrete structures.
+
+This new approach to 3D printing—led in its development by Imperial and Empa, the Swiss Federal Laboratories of Materials Science and Technology—uses flying robots, known as drones, that use collective building methods inspired by natural builders like bees and wasps who work together to create large, intricate structures.
+
+The drones in the fleet, known collectively as Aerial Additive Manufacturing (Aerial-AM), work co-operatively from a single blueprint, adapting their techniques as they go. They are fully autonomous while flying but are monitored by a human controller who checks progress and intervenes if necessary, based on the information provided by the drones.
+
+Lead author Professor Kovac, of Imperial's Department of Aeronautics and Empa's Materials and Technology Center of Robotics said, "We've proved that drones can work autonomously and in tandem to construct and repair buildings, at least in the lab. Our solution is scalable and could help us to construct and repair building in difficult-to-reach areas in the future."
+
+Printing 3D geometries
+
+Aerial-AM uses both a 3D printing and path-planning framework to help the drones adapt to variations in geometry of the structure as a build progresses. The fleet consists of BuilDrones, which deposit materials during flight, and quality-controlling ScanDrones that continually measure the BuilDrones' output and inform their next manufacturing steps.
+
+To test the concept, the researchers developed four bespoke cementitious mixtures for the drones to build with.
+
+Throughout the build, the drones assessed the printed geometry in real time and adapted their behavior to ensure they met the build specifications, with manufacturing accuracy of five millimeters.
+
+The proof-of-concept prints included a 2.05-meter high cylinder (72 layers) with a polyurethane-based foam material, and an 18-centimeter high cylinder (28 layers) with a custom-designed structural cementitious material.
+
+The technology offers future possibilities for building and repairing structures in tall or other hard-to-access locations. Next, the researchers will work with construction companies to validate the solutions and provide repair and manufacturing capabilities.
+
+Professor Kovac said, "We believe our fleet of drones could help reduce the costs and risks of construction in the future, compared to traditional manual methods."

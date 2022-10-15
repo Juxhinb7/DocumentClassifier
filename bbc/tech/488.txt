@@ -1,0 +1,19 @@
+Renowned analyst Ming-Chi Kuo claims Apple’s long-rumoured AR/VR headset will debut next year with “Mac-level” power.
+
+A research note from Kuo seen by MacRumours suggests the device will feature two processors to support its capabilities.
+
+One processor is said to be similar to Apple’s debut in-house silicon, the M1. This chip will handle the device’s more demanding tasks.
+
+A second, lower-end processor will be used to handle sensor data.
+
+Rumours of Apple’s entry into the AR/VR space have been circulating for several years with many reports suggesting that Apple would debut two devices.
+
+One of the reported devices was said to be a standalone VR headset along the lines of the Oculus Quest. The other rumoured device was more like smart glasses with AR capabilities.
+
+However, Kuo’s report suggests Apple’s headset will support both VR and AR.
+
+Kuo says the headset will use a pair of 4K Micro OLED displays from Sony for its VR capabilities. These displays will require the grunt of the M1 to power.
+
+In his report, Kuo wrote:
+
+    “Apple’s AR headset requires a separate processor as the computing power of the sensor is significantly higher than that of the iPhone.

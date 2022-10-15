@@ -1,0 +1,39 @@
+The latest beta of Xcode 14 all but confirms that an always-on display (AOD) will arrive with the iPhone 14 Pro lineup.
+
+AODs have featured on numerous Android devices since around 2016. Over in the Apple garden, the only device to feature an AOD is the Apple Watch (Series 5+)
+
+Rather than have to fully wake up your display to obsessively check for information, AODs enable data to be seen at-a-glance.
+
+AODs require very low refresh rates to preserve battery. The upcoming iPhone 14 Pro models are expected to come with a new variable refresh rate OLED panel that can go from 120Hz all the way down to 1Hz.
+
+With iOS 16, Apple is introducing third-party lock screen widgets. A clever new feature called ‘Live Activities’ also enables temporary information – like a sports match score or Uber arrival time – to be displayed on the lock screen.
+
+Developers will be able to use both of these iOS 16 features to provide information to users when they’re not actively using their apps. Combined with an AOD, the third-party widgets and Live Activities should be able to continue providing basic information even when a user’s screen isn’t fully awake.
+
+As spotted by iOS developer @rhogelleim, the SwiftUI preview in the latest Xcode 14 beta has a new behaviour that will enable a developer to see how their widgets will look when a screen is in always-on mode:
+
+
+Xcode 14 beta practically confirms iPhone 14 Pro will get an AOD
+By Ryan Daws | 2nd August 2022 | TechForge Media
+Categories: Development Tools, iOS, Platforms, SDK, Swift, UX/Design,
+Ryan is a senior editor at TechForge Media with over a decade of experience covering the latest technology and interviewing leading industry figures. He can often be sighted at tech conferences with a strong coffee in one hand and a laptop in the other. If it's geeky, he’s probably into it. Find him on Twitter: @Gadget_Ry
+
+The latest beta of Xcode 14 all but confirms that an always-on display (AOD) will arrive with the iPhone 14 Pro lineup.
+
+AODs have featured on numerous Android devices since around 2016. Over in the Apple garden, the only device to feature an AOD is the Apple Watch (Series 5+)
+
+Rather than have to fully wake up your display to obsessively check for information, AODs enable data to be seen at-a-glance.
+
+AODs require very low refresh rates to preserve battery. The upcoming iPhone 14 Pro models are expected to come with a new variable refresh rate OLED panel that can go from 120Hz all the way down to 1Hz.
+
+With iOS 16, Apple is introducing third-party lock screen widgets. A clever new feature called ‘Live Activities’ also enables temporary information – like a sports match score or Uber arrival time – to be displayed on the lock screen.
+
+Developers will be able to use both of these iOS 16 features to provide information to users when they’re not actively using their apps. Combined with an AOD, the third-party widgets and Live Activities should be able to continue providing basic information even when a user’s screen isn’t fully awake.
+
+As spotted by iOS developer @rhogelleim, the SwiftUI preview in the latest Xcode 14 beta has a new behaviour that will enable a developer to see how their widgets will look when a screen is in always-on mode:
+
+Interestingly, hidden flags have been found in the iOS 16 beta that indicates Apple is testing the always-on display feature for the iPhone 13 Pro.
+
+The iPhone 13 Pro supports refresh rates down to 10Hz. Such a refresh rate could support an AOD, but with far less efficiency than one that can tick along at just 1Hz.
+
+Apple may enable AOD on the iPhone 13 Pro – albeit with a battery drain warning – to increase the marketshare of compatible devices. The combined marketshare of iPhone 13 Pro and iPhone 14 Pro devices out there will entice more developers to work on AOD-compatible widgets and activities.

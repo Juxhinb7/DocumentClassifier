@@ -1,0 +1,14 @@
+The Linux Foundation has announced OpenWallet, an initiative to support the development of Web3 digital wallets.
+
+“We are convinced that digital wallets will play a critical role for digital societies,” said Jim Zemllin, Executive Director of the Linux Foundation.
+
+“Open software is the key to interoperability and security. We are delighted to host the OpenWallet Foundation and excited for its potential.”
+
+OpenWallet aims to develop a secure and interoperable open-source engine that will enable anyone with the technical expertise to build a digital wallet. The Linux Foundation will not be building its own wallet.
+
+“With the OpenWallet Foundation, we push for a plurality of wallets based on a common core,” commented Daniel Goldscheider, who started the OpenWallet initiative.
+
+“I couldn’t be happier with the support this initiative has received already and the home it found at the Linux Foundation.”
+
+Web3 wallets aim to supersede digital wallets of the Web2 era – like Apple Wallet, Venmo, and PayPal – and enable users to interact with decentralised apps and store their digital assets, including cryptocurrencies and NFTs.
+

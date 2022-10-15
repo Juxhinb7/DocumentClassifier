@@ -1,0 +1,17 @@
+A malicious PyPI package was used to install a Monero cryptominer on Linux systems.
+
+The package in question, secretslib, was pushed to the official third-party software repo for Python on 6th August 2022. The package was described as “secrets matching and verification made easy”.
+
+Sonatype’s automated malware detection system flagged secretslib as potentially malicious. Further analysis proved its suspicions to be correct.
+
+“The package covertly runs cryptominers on your Linux machine in-memory (directly from your RAM), a technique largely employed by fileless malware and crypters,” wrote Sonatype researcher Ax Sharma in a report.
+
+When secretslib is installed, it downloads a file called tox, grants it execute permissions, runs it with elevated permissions, and then deletes the file after it’s running.
+
+“Stripping an executable removes debugging information contained within it that would otherwise help a reverse engineer better understand what the program does,” explains Sharma.
+
+The malicious code dropped by tox is a cryptominer that mines the privacy coin Monero.
+
+Whoever created secretslib used the name and information of a real software engineer that works for Illinois-based science and engineering research lab Argonne National Laboratory (ANL). Many employees and associates of ANL have legitimately contributed to the PyPI registry at some point.
+
+“Perhaps this would have prompted the threat actor to use the identity of a real employee; to mislead users and blend secretslib among one of the legitimate and safe packages formerly published by ANL researchers,” theorises Sharma.

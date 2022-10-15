@@ -1,0 +1,16 @@
+Such robots have naturally caused alarm that they could be weaponised for military purposes, especially given the sci-fi portrayals.
+
+An episode of the dystopian TV show Black Mirror portrayed robot quadrupeds – that are eerily similar to Boston Dynamics’ Spot – hunting down human survivors in a post-apocalyptic wasteland. Other infamous sci-fi portrayals of deadly robots include those featured in Terminator and Robocop.
+
+Boston Dynamics has received funding from the US military and DARPA to design robots like BigDog that could be used in combat scenarios for logistical support or remote inspection, but have no deadly capabilities themselves. In its ethical principles, the company has always said that it will not authorise the use of its robots for use as weapons or autonomous targeting systems.
+
+In addition to Boston Dynamics, the other five current signatories are:
+
+    Agility Robotics
+    ANYbotics
+    Clearpath Robotics
+    Open Robotics
+    Unitree Robotics
+“We are concerned about recent increases in makeshift efforts by individuals attempting to weaponize commercially available robots,” said Robert Playter, CEO of Boston Dynamics, in a statement.
+
+“For this technology to be broadly accepted throughout society, the public needs to know they can trust it. And that means we need policy that prohibits bad actors from misusing it.”

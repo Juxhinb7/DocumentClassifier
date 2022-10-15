@@ -1,0 +1,13 @@
+With new hardware, software and artificial intelligence technology, Google expects significant camera improvements to its Pixel 7 Pro smartphone. And CNET has the exclusive deep dive into exactly what the company has done.
+
+In part because of that photography technology, Google positions its $899 flagship Android phone to compete directly against Apple's $1,099 iPhone 14 Pro Max, though the smaller $999 iPhone 14 Pro has the same camera hardware.
+
+Google's Pixel phones haven't sold well compared with models from Samsung and Apple. But they've earned high marks for photography year after year. And if anything is going to win customers over, it'll be camera technology.
+
+Last year's Pixel 6 Pro sported a "camera bar" housing three rear cameras -- its 50-megapixel main camera, a 0.7x ultrawide angle and a 4x telephoto. The Pixel 7 models' keeps the same 50-megapixel camera but houses it in a restyled camera bar. On the Pixel 7 Pro, the ultrawide has the same sensor as last year but gets a macro mode, autofocus and a wider 0.5x zoom. The 7 Pro's telephoto's zoom magnification extends to 5x, and a new 48-megapixel telephoto sensor enables a 10x zoom mode without using any digital magnification tricks. Both phones get a new front-facing selfie camera.
+
+But the Pixel 7 Pro's improved hardware foundation is only part of the story. New computational photography technology enabled by new AI algorithms and Google's new Tensor G2 processor speeds up Night Sight, unblurs faces, stabilizes video better and merges data from multiple cameras to improve image quality for intermediate zoom levels like 3x. That's more like how a traditional camera behaves.
+
+"What we really tried to do is give you a 12mm-240mm camera," said Pixel camera hardware leader Alexander Schiffhauer, translating the Pixel 7 Pro's 0.5x to 10x magnification range into traditional 35mm camera terms. "That's like the Holy Grail travel lens," an all-purpose setup that photo enthusiasts have long enjoyed for portability and flexibility.
+
+Here's a deeper look into what Google is up to.

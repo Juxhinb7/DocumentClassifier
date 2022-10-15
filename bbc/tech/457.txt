@@ -1,0 +1,9 @@
+Signal, a cross-platform instant messaging service, has released a beta that includes the popular Stories feature. The platform announced that users will be able to share images, videos, and texts with friends on Signal. Just like you have Stories on Snapchat, Instagram, Facebook, YouTube and even WhatsApp, the content you share on will disappear after 24 hours.
+
+Android developer Greyson Parrelli announced in a Signal Community post that Stories on Signal will be end-to-end encrypted giving users “a new way to communicate on Signal without compromising privacy.” It is to be noted that the Chats on the messaging platform are also end-to-end encrypted.
+
+Furthermore, you can control who you share your stories with. Users can choose to share their stories with all of their Signal connections, which include their contacts as well as anyone with whom they have had a one-one-one chat on the platform. Signal will also allow users to share Stories with a custom list of friends – like “Close Friends” on Instagram – or with any of the Signal groups which you are a part of.
+
+Needless to say that when you share Stories to your groups, “anyone in that group can view, share, react, and reply to that group story.” Parrelli says since the Stories feature is in beta, only those who themselves are beta testers will be able to see the Stories of other beta testers.
+
+However, the post hints that Signal will allow users to take a break from the feature and it won’t be forced on them like on the other platforms. Users can turn Stories off completely in the Settings menu. Selecting this will prevent the users from creating Stories as well as seeing anyone else’s Stories. Signal will compete with a long list of competitors who have had Stories feature for a long time now.

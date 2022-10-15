@@ -1,0 +1,25 @@
+Optus has partnered with the UNSW Sunswift Racing Project to showcase full scale remote driving capability over the Optus 5G network, providing a sneak peak into the future of mobility using 5G.
+
+The Sunswift 7 completed the first in a series of remote driving milestones as it took to the track at Sydney Motorsport Park.
+
+Running on solar energy and Optus’ super-fast 5G network and standalone technology, the vehicle required over 1500 hours of work by Sunswift students and Optus engineers to ensure optimal 5G integration and connectivity.
+
+Having the car move forward, backwards, turn and even breke remotley was achieved thanks to the high bandwidth, low latecy and speed of the Optus 5G network
+
+Critically, the improved bandwidth offered by 5G assisted in the real-time transmission of high quality, low delay video to support with non-line of sight control.
+
+Speaking on the new partnership Matt Williams, Optus Managing Director Marketing and Revenue said, “The team behind the Sunswift Racing Project are full of optimism so it was a natural fit for Optus to collaborate with them.”
+
+“Partnerships like this one are important in helping to understand and test how 5G technology can be harnessed for future use cases especially in industries like logistics and automation.”
+
+“What we’re showcasing today is just a fraction of Optus’ 5G network capability and I can’t wait to see how much further we can push this – if we can control a car remotely over 5G, the possibilities for future innovation are endless.”
+
+Professor Richard Hopkins, Sunswift Racing Team Principal said, “The collaboration with Optus and Sunswift Racing’s highly motivated student team demonstrates the shared passion towards technology and innovation.
+
+“For Sunswift Racing to be fully engaged with a project that can prove how 5G technology can be used is an opportunity not to be missed”.
+
+Andrea Holden, Undergrad Mechanical Student Sunswift Racing Team Manager said “To have such amazing partners like Optus for our team to learn from and work with is an incredible experience.”
+
+“This project has at times been challenging but watching the Sunswift car out there on the skidpan, driving remotely over 5G was awesome to witness.”
+
+The showcase was the first millestone in a broader program of work that Optus and Sunswift Racing Project will deliver togther over the next few months.

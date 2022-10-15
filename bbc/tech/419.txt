@@ -1,0 +1,21 @@
+Here's a quick look at what is DLSS and how it improves the gaming performance on RTX-series graphics cards.
+
+If you’re into PC gaming and have played any of the recent games, ‘DLSS’ is a setting you’ve probably come across a few times. The graphic setting is quickly shaping up to be one of the most important graphics settings that could potentially change a user’s experience of a game without any new hardware to their system.
+
+But what exactly is Nvidia’s DLSS tech? How does it do what it does to improve performance and what is new with the recently announced DLSS 3.0 that Nvidia showcased alongside its new RTX 40-series cards? Here’s all you need to know in today’s edition of Tech InDepth.
+
+Deep Learning Super Sampling, or simply put DLSS is Nvidia’s own tech that powers most of its newer graphics cards. The tech uses machine learning to upscale games in real-time, using AI models to output high-res scans of in-game elements.
+
+What this means is if your graphics card supports DLSS, you can turn on the option and configure it to play games at higher resolutions than what your GPU was natively capable of, or to better the performance of an existing resolution, which is the more common use-case.
+
+For instance, if your system is great for playing a particular title at 1080p, but outputs unsatisfactory frame rates while playing the same title at 1440p (2K resolution), your system’s hardware limits you to playing at 1080p for an enjoyable, smooth experience.
+
+However, if you add DLSS into the equation, the same system would be able to generate 1080p frames and use DLSS to upscale this in real-time to 2K resolutions before sending the same to your display. This would enable you to play at 1440p while your GPU is working to generate 1080p frames.
+
+DLSS-powered 1440p will not likely be as good as true 1440p resolution, but will enable more users to play the title at the higher resolution. This is useful when you have hardware limitations, and don’t want to upgrade multiple components to play at a higher resolution.
+
+DLSS is powered by Nvidia’s Tensor cores in its newer GPUs. The Tensor cores are dedicated cores in the Nvidia’s RTX-series GPUs, found in the RTX 20, 30 and the new 40-series graphics cards. While the RTX 20-series cards used first-generation Tensor cores for what was essentially DLSS 1.0, second-gen Tensor cores since the RTX 30-series have largely improved upon the technology.
+
+With Nvidia’s new RTX 40-series cards that were launched earlier this month, the company brings DLSS 3.0 in the picture, the most advanced version of the tech so far. DLSS further improves upon the upscale abilities of the new Tensor cores and provides more frames and better image quality with more details.
+
+Nvidia showed off the new DLSS iteration in a recent video where Microsoft Flight Simulator, a popular, graphic-intensive title can be seen running with DLSS off and DLSS On (with ray-tracing) side-by side. Check it out below.

@@ -1,0 +1,21 @@
+A team led by the University of California San Diego has developed a new system of algorithms that enables four-legged robots to walk and run on challenging terrain while avoiding both static and moving obstacles. 
+
+In tests, the system guided a robot to maneuver autonomously and swiftly across sandy surfaces, gravel, grass, and bumpy dirt hills covered with branches and fallen leaves without bumping into poles, trees, shrubs, boulders, benches or people. The robot also navigated a busy office space without bumping into boxes, desks or chairs.
+
+The work brings researchers a step closer to building robots that can perform search and rescue missions or collect information in places that are too dangerous or difficult for humans.
+
+The team will present its work at the 2022 International Conference on Intelligent Robots and Systems (IROS), which will take place from Oct. 23 to 27 in Kyoto, Japan.
+
+A new system of algorithms developed by UC San Diego engineers enables four-legged robots to walk and run on challenging terrain while avoiding both static and moving obstacles. The work brings researchers a step closer to building robots that can perform search and rescue missions or collect information in places that are too dangerous or difficult for humans. Credit: UC San Diego Jacobs School of Engineering
+
+The system provides a legged robot more versatility because of the way it combines the robot's sense of sight with another sensing modality called proprioception, which involves the robot's sense of movement, direction, speed, location and touch—in this case, the feel of the ground beneath its feet.
+
+Currently, most approaches to train legged robots to walk and navigate rely either on proprioception or vision, but not both at the same time, said study senior author Xiaolong Wang, a professor of electrical and computer engineering at the UC San Diego Jacobs School of Engineering.
+
+"In one case, it's like training a blind robot to walk by just touching and feeling the ground. And in the other, the robot plans its leg movements based on sight alone. It is not learning two things at the same time," said Wang. "In our work, we combine proprioception with computer vision to enable a legged robot to move around efficiently and smoothly—while avoiding obstacles—in a variety of challenging environments, not just well-defined ones."
+
+The system that Wang and his team developed uses a special set of algorithms to fuse data from real-time images taken by a depth camera on the robot's head with data from sensors on the robot's legs. This was not a simple task. "The problem is that during real-world operation, there is sometimes a slight delay in receiving images from the camera," explained Wang, "so the data from the two different sensing modalities do not always arrive at the same time."
+
+The team's solution was to simulate this mismatch by randomizing the two sets of inputs—a technique the researchers call multi-modal delay randomization. The fused and randomized inputs were then used to train a reinforcement learning policy in an end-to-end manner. This approach helped the robot to make decisions quickly during navigation and anticipate changes in its environment ahead of time, so it could move and dodge obstacles faster on different types of terrains without the help of a human operator.
+
+Moving forward, Wang and his team are working on making legged robots more versatile so that they can conquer even more challenging terrains. "Right now, we can train a robot to do simple motions like walking, running and avoiding obstacles. Our next goals are to enable a robot to walk up and down stairs, walk on stones, change directions and jump over obstacles."

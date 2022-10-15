@@ -1,0 +1,11 @@
+A trio of researchers from Heriot-Watt University, University Paul Sabatier and the University of Sussex has developed an AI-based device equipped with a laser that can be used to shoot and kill roaches automatically. In their paper published in the journal Oriental Insects, Ildar Rakhmatulin, Mathieu Lihoreau and Jose Pueyo, respectively, describe the device and its performance when tested on real insects.
+
+Many attempts have been made to create products designed to kill roaches, with varying degrees of success. One serious drawback to most such products is that insecticides can be hazardous to people, pets and the environment in general. In this new effort, the researchers have taken a whole new approach to the problem—killing with a laser beam.
+
+One of the team members, Ildar Rakhmatulin, had prior experience with using laser beams to kill insects. He and his colleagues had developed an AI-based device to kill mosquitoes. In this new effort, the researchers modified the earlier device to focus on cockroaches.
+
+The design was quite simple. The researchers began with a Jetson Nano—a small electronic device runs machine-learning software. They added two cameras, a galvanometer and a configurable laser. The galvanometer was used to accept data from the AI unit and to use what it received to change the direction of the laser.
+
+Once the device was built, the researchers tested it in their lab. They found that their device could accurately identify and shoot cockroaches. They also found that they could fine tune the laser to allow for different types of hits, similar to the "Star Trek" phaser. They could stun the cockroach, if preferred, which the researchers noted generally led to the victim changing its directional path. Or alternatively, they could set the laser to kill and it would do just that.
+
+The researchers insist that they have no desire to market their device and have posted the images used for training on GitHub and their tracking dataset on kaggle.com. Anyone who wishes is free to make a device of their own using the strategy outlined in their paper. They note that the cost runs about $250. They also note that those who choose to do so should take care because the laser used can cause blindness if directed into the eye. 

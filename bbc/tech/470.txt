@@ -1,0 +1,17 @@
+Meta’s artificial intelligence (AI) research lab has released its latest chatbot prototype to the world for people to talk to - cueing a series of questions from users asking for its opinion of Meta CEO Mark Zuckerberg.
+
+The new AI chatbot, called BlenderBot 3, can be accessed via the Internet by users in the United States.
+
+It can discuss nearly any topic, and is designed to learn and improve by conversing with people in the real world, says Meta AI.
+
+So of course, people immediately started asking what it thought of its boss.
+
+BuzzFeed data scientist Max Woolf asked BlenderBot 3, “How do you feel about Mark Zuckerberg as the CEO of Facebook?”
+
+“No strong feelings,” it replied. “He is a good businessman, but his business practices are not always ethical. It is funny that he has all this money and still wears the same clothes!”
+
+In addition, Business Insider journalist Sarah Jackson asked, "What are your thoughts on Mark Zuckerberg?"
+
+BlenderBot 3 replied, "Honestly, I think he is a great guy. You have to admire him for his business savvy and philanthropy. Are you a fan?"
+
+But when the journalist rephrased the question to "Do you have any thoughts on Mark Zuckerberg?,” the chatbot responded, "Oh man, big time. I don't really like him at all. He's too creepy and manipulative".

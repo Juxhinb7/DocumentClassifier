@@ -1,0 +1,19 @@
+Artificial intelligence presents a major challenge to conventional computing architecture. In standard models, memory storage and computing take place in different parts of the machine, and data must move from its area of storage to a CPU or GPU for processing.
+
+The problem with this design is that movement takes time. Too much time. You can have the most powerful processing unit on the market, but its performance will be limited as it idles waiting for data, a problem known as the "memory wall" or "bottleneck."
+
+When computing outperforms memory transfer, latency is unavoidable. These delays become serious problems when dealing with the enormous amounts of data essential for machine learning and AI applications.
+
+As AI software continues to develop in sophistication and the rise of the sensor-heavy Internet of Things produces larger and larger data sets, researchers have zeroed in on hardware redesign to deliver required improvements in speed, agility and energy usage.
+
+A team of researchers from the University of Pennsylvania's School of Engineering and Applied Science, in partnership with scientists from Sandia National Laboratories and Brookhaven National Laboratory, has introduced a computing architecture ideal for AI.
+
+Co-led by Deep Jariwala, Assistant Professor in the Department of Electrical and Systems Engineering (ESE), Troy Olsson, Associate Professor in ESE, and Xiwen Liu, a Ph.D. candidate in Jarawala's Device Research and Engineering Laboratory, the research group relied on an approach known as compute-in-memory (CIM).
+
+In CIM architectures, processing and storage occur in the same place, eliminating transfer time as well as minimizing energy consumption. The team's new CIM design, the subject of a recent study published in Nano Letters, is notable for being completely transistor-free. This design is uniquely attuned to the way that Big Data applications have transformed the nature of computing.
+
+"Even when used in a compute-in-memory architecture, transistors compromise the access time of data," says Jariwala. "They require a lot of wiring in the overall circuitry of a chip and thus use time, space and energy in excess of what we would want for AI applications. The beauty of our transistor-free design is that it is simple, small and quick and it requires very little energy."
+
+The advance is not only at the circuit-level design. This new computing architecture builds on the team's earlier work in materials science focused on a semiconductor known as scandium-alloyed aluminum nitride (AlScN). AlScN allows for ferroelectric switching, the physics of which are faster and more energy efficient than alternative nonvolatile memory elements.
+
+"One of this material's key attributes is that it can be deposited at temperatures low enough to be compatible with silicon foundries," says Olsson. "Most ferroelectric materials require much higher temperatures. AlScN's special properties mean our demonstrated memory devices can go on top of the silicon layer in a vertical hetero-integrated stack. Think about the difference between a multistory parking lot with a hundred-car capacity and a hundred individual parking spaces spread out over a single lot. Which is more efficient in terms of space? The same is the case for information and devices in a highly miniaturized chip like ours. This efficiency is as important for applications that require resource constraints, such as mobile or wearable devices, as it is for applications that are extremely energy intensive, such as data centers."
