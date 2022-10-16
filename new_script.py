@@ -10,57 +10,34 @@ from sklearn.ensemble import GradientBoostingClassifier
 from xgboost import XGBClassifier
 from random import randint
 user_input = """
-Victor Wembanyama’s favorite players in the NBA right now are Kevin Durant and Giannis Antetokounmpo. That makes sense, given that they’re both taller than just about everyone else in the league and have all-world all-around games.
+The first thing I notice with the Meta Quest Pro is the fit. Even after eight years, Meta’s (formerly Facebook’s) virtual reality headsets are typically bulky, front-heavy affairs. But the Quest Pro rests around my head easily, with its battery shifted to a back mount and its electronics pared down to a lighter layer over my face. Though it’s bigger than your typical pair of glasses or even your typical ski mask, it’s a major step forward for the biggest VR headset maker around.
 
-He might see some similarities there.
+It’s clear where that step is going, but for now, I’m less sure where it’s landed. The Quest Pro is a $1,499 variation on the $399 Meta Quest 2, improving on that headset in several ways — from better ergonomics to an upgraded processor. It adds eye tracking and a high-resolution color video feed that blurs the conventional line between virtual and augmented reality. In theory, the Quest Pro primes Meta to enter a professional-oriented VR market that has, so far, been an afterthought for the Quest.
 
-But comparisons to them, or anyone else, are not what Wembanyama is seeking. When the 7-foot-2 French teen comes to the NBA next season — by most accounts, he would be the No. 1 pick if the draft was held today — he isn’t interested in trying to become the next Durant, or Antetokounmpo, or Dirk Nowitzki.
+“This is the highest-end VR device — for enthusiasts, the prosumer, the sort of people who are trying to get work done,” Meta CEO Mark Zuckerberg told The Verge and a small group of reporters during a recent demo at the company’s research division in Redmond, Washington. Meta will continue selling the Quest 2, putting the Quest Pro in a separate high-end category.
 
-The path he wants to take, he said in an interview with The Associated Press, will be all his own.
-
-“I’m gonna tell you something that’s been going on in my life, like for my whole life, since I’ve been a kid, even before I played basketball,” Wembanyama said. “I’ve always tried to do (something) different. I’m not even talking about sports, whatever. Any field, I’m always trying to be original, something original, something one of one, something that’s never been done before. And this is really how it worked in my life. I don’t know where it comes from. I think I was born with it. I’ve always been trying to be original. Unique, that’s the word.”
-"""
-features, classes = fit_and_transform_dataset(user_input, "dataset.txt")
-flist = dtm2list(features)
-X = even_out_list(flist)[:-1]
-my_input = even_out_list(flist)[-1]
-encoded_classes = {}
-count = 0
-for cls in classes:
-    if cls not in encoded_classes:
-        encoded_classes[cls] = count
-        count += 1
-y = [encoded_classes[cls] for cls in classes if cls in encoded_classes]
-
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42, shuffle=True)
-
-"""
-max_depths = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-n_estimators = [200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]
-min_samples_leaf = [1, 2, 4]
-min_samples_split = [2, 5, 10]
-random_max_depth_index = randint(0, len(max_depths)-1)
-random_n_estimators_index = randint(0, len(n_estimators)-1)
-random_min_samples_leaf_index = randint(0, len(min_samples_leaf)-1)
-random_min_samples_split_index = randint(0, len(min_samples_split)-1)
-
-
-clf = RandomForestClassifier(max_depth=max_depths[random_max_depth_index],
-                             n_estimators=n_estimators[random_n_estimators_index],
-                             min_samples_split=min_samples_split[random_min_samples_split_index],
-                             min_samples_leaf=min_samples_leaf[random_min_samples_leaf_index])
-clf.fit(X_train, y_train)
-y_pred = clf.predict(X_test)
-print(classification_report(y_test, y_pred))
-print(f"Random max depth index: {random_max_depth_index}")
-print(f"Random n estimators index: {random_n_estimators_index}")
-print(f"Random min samples leaf index: {random_min_samples_leaf_index}")
-print(f"Random min samples split index: {random_min_samples_split_index}")
+In practice, the Meta Quest Pro seems a bit like a very sophisticated development kit, more geared toward testing next-gen technology than filling specific needs. Maybe I’ll feel differently when the headset ships on October 25th. But it’s not clear how strong a case Meta will make for a $1,500 device whose pragmatic benefits for many businesses remain debatable. And there’s one major downgrade from the Quest 2: a hit to battery life that could make the Quest Pro less attractive for some of the customers it’s meant to reach.
+Meta has long ceded the high end of VR to companies like HTC, Varjo, and Valve, but the Quest Pro changes that. The headset bumps the Meta Quest 2’s internal specs: there’s a Snapdragon XR2-Plus processor instead of the Quest 2’s XR2, 12GB instead of 6GB of memory, and 256GB of storage instead of 128GB and 256GB models. It weighs 722 grams to the Quest 2’s 503 grams, but it’s far better balanced. (It’s also not far from the Quest 2’s weight with an optional Elite Strap, which adds an extra 173 grams or more.) Its screens offer a respectable 1800 x 1920 pixels per eye with a maximum 90Hz refresh rate, plus new display tech that Meta says offers 75 percent more contrast than the Quest 2’s. Other headsets can beat the Quest Pro on specific features, like the wired Varjo headset’s extraordinarily high-definition screen. But the combination of better baseline specs and specialized new features pushes it out of the Quest 2’s squarely midrange comfort zone. 
 """
 
-clf = RandomForestClassifier(max_depth=90, n_estimators=2000, min_samples_leaf=1, min_samples_split=5)
-clf.fit(X_train, y_train)
-print(clf.predict([my_input]))
+
+def classify_data(user_input: str, dataset: str):
+    features, classes = fit_and_transform_dataset(user_input, dataset)
+    flist = dtm2list(features)
+    X = even_out_list(flist)[:-1]
+    my_input = even_out_list(flist)[-1]
+    encoded_classes = {}
+    count = 0
+    for cls in classes:
+        if cls not in encoded_classes:
+            encoded_classes[cls] = count
+            count += 1
+    y = [encoded_classes[cls] for cls in classes if cls in encoded_classes]
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42, shuffle=True)
+
+    clf = RandomForestClassifier(max_depth=60, n_estimators=1200, min_samples_leaf=2, min_samples_split=5)
+    clf.fit(X_train, y_train)
+    print(clf.predict([my_input]))
 
 

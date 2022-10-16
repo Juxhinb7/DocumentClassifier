@@ -1,12 +1,7 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import classification_report
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
-from data_proccessing import fit_and_transform_dataset, dtm2list, even_out_list
-import xgboost
-from sklearn.metrics import accuracy_score
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import SVC
+from data_preproccessing import fit_and_transform_dataset, dtm2list, even_out_list
 
 features, classes = fit_and_transform_dataset("""
 Antoine Griezmann says he did everything that he could to stay at Atletico Madrid.
@@ -110,28 +105,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random
 clf = RandomForestClassifier(max_depth=60, n_estimators=1200, min_samples_leaf=2, min_samples_split=5)
 clf.fit(X_train, y_train)
 
-"""result = clf.predict([my_input])
-print(result)"""
-
 
 y_pred = clf.predict(X_test)
 print(classification_report(y_test, y_pred))
 
 
-"""with open("AG_News/test.csv") as file:
-    lines = file.readlines()
-    count = 0
-    name = 497
 
-    for line in lines:
-        class_index = line.split(",")[0]
-        title = line.split(",")[1]
-        description = line.split(",")[2]
-        if class_index != "4":
-            continue
-
-        with open(f"newbus/{str(name)}.txt", "w") as f:
-            f.write(description)
-        name += 1"""
 
 

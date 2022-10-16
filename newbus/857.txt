@@ -1,1 +1,0 @@
-Big Blue will use AMD's chip in a high-performance server but isn't yet planning a general-purpose Opteron system.
